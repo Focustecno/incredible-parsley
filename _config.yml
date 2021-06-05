@@ -1,8 +1,7 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: FocusTecno
+title: FocusTecno | Las últimas noticias sobre tecnología
 description: >-
-  Jekflix is a template for Jekyll inspired by Netflix and made by Thiago
-  Rossener.
+  FocusTecno es una red de contenidos en crecimiento dedicado al mundo de la tecnología, la ciencia y la innovación
 tags:
   - blog
   - template
@@ -11,7 +10,7 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Home
+  - title: Inicio
     url: /
   - title: About
     url: /about
@@ -35,7 +34,7 @@ two_columns_layout: true
 baseurl: ''
 url: ''
 google_analytics: UA-XXXXXXXX-X
-language: en
+language: es
 categories_folder: category
 sent_message_url: /contact/message-sent/
 markdown: kramdown
