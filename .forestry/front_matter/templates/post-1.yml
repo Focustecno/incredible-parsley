@@ -33,7 +33,5 @@ fields:
   name: author
   label: author
 pages:
-- _posts/2021-06-05-primer-post-con-forest.md
-- _posts/2021-06-05-prueba-post-en-carpeta.md
 - pages/comment-policy.md
 - politicas-de-privacidad.md
