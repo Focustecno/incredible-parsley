@@ -10,7 +10,7 @@ tags:
   - netlify
 show_hero: true
 menu:
-  - title: Homee
+  - title: Inicio
     url: /
   - title: About
     url: /about
