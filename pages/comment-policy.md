@@ -9,6 +9,5 @@ optimized_image: ''
 category: ''
 tags: []
 author: ''
-published: false
 
 ---
