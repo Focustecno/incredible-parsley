@@ -13,11 +13,7 @@
       </h3>
       <p class="desc">{{ author.bio }}</p>
       <p>
-        {% if author.github_username %}
-          <a href="https://github.com/{{ author.github_username }}" title="Github">
-            <svg><use xlink:href="#icon-github"></use></svg>
-          </a>
-        {% endif %}
+
         {% if author.facebook_username %}
           <a href="https://www.facebook.com/{{ author.facebook_username }}" title="Facebook">
             <svg><use xlink:href="#icon-facebook"></use></svg>
