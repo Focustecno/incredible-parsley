@@ -21,11 +21,11 @@ Un vuelo de cohete Falcon 9 de 2 fases está programado para despegar del Comple
 
 Encaramado sobre el Falcon 9 de 230 pies de elevación (70 metros) está el satélite Sirius XM-8 (SXM-8) de alta potencia construido por Maxar Technologies para Sirius XM. Es el segundo de 2 satélites de radio lanzados por SpaceX para la compañía como parte de un esfuerzo por suplir los obsoletos que se hallan en la actualidad en órbita.
 
-Va a poder ver el lanzamiento en esta página, así como aquí y en la página de inicio de Space.com, cortesía de SpaceX, cuando haya un webcast disponible. Además puede ver de manera directa a partir de SpaceX aquí unos 15 min anteriormente del despegue.
+Va a poder ver el lanzamiento en esta página, así como aquí y en la página de inicio de [Space.com](https://www.space.com/ "Sapce.com"), cortesía de SpaceX, cuando haya un webcast disponible. Además puede ver de manera directa a partir de SpaceX aquí unos 15 min anteriormente del despegue.
 
 ![](/uploads/spacex-lanza-un-nuevo-satelite-focus-tecno-2.jpg)
 
-SpaceX hizo saber el lanzamiento pocos min a partir del famoso despegue de otro cohete Falcon 9 el jueves 3 de junio. Aquel transporte despegó del Pad 39A, llevando una nave de carga Dragon repleta de suministros de la NASA y equipo empírico para la tripulación a bordo de la Estación Espacial Universal. (ISS).
+**SpaceX** hizo saber el lanzamiento pocos min a partir del famoso despegue de otro cohete Falcon 9 el jueves 3 de junio. Aquel transporte despegó del Pad 39A, llevando una nave de carga Dragon repleta de suministros de la NASA y equipo empírico para la tripulación a bordo de la Estación Espacial Universal. (ISS).
 
 Desde el despegue el domingo, se espera que la primera fase del cohete aterrice en la nave de aviones no tripulados de SpaceX "Just Read the Instructions", que está esperando en el Atlántico. Si tiene triunfo, marcará la recuperación 87 de un propulsor de primera fase para el fabricante de cohetes con base en California.
 
