@@ -33,7 +33,7 @@ show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
 baseurl: ''
-url: 'https://focustecno.com/'
+url: 'https://focustecno.com'
 google_analytics: UA-XXXXXXXX-X
 language: es
 categories_folder: category
