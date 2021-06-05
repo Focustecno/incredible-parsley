@@ -2,7 +2,7 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: FocusTecno
-display_name: Thiago Rossener
+display_name: FocusTecno
 position: Chief Editor
 bio: Just a developer.
 github_username: thiagorossener
