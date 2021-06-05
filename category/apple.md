@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Work
-slug: work
+title: Apple
+slug: apple
 description: A category for work related posts.
 ---
