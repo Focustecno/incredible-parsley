@@ -33,7 +33,5 @@ fields:
   name: author
   label: author
 pages:
-- _posts/Space/spacex-lanzara-un-nuevo-satelite-sirius-xm-la-madrugada-del-domingo.md
-- _posts/todo-lo-que-apple-podria-anunciar-en-wwdc-2021.md
 - pages/comment-policy.md
 - politicas-de-privacidad.md
