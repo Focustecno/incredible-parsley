@@ -14,6 +14,20 @@ layout: main
     {% assign offset = 0 %}
 {% endif %}
 
+
+<script>function ellipsis_box(elemento, max_chars){
+	limite_text = $(elemento).text();
+	if (limite_text.length > max_chars)
+	{
+	limite = limite_text.substr(0, max_chars)+" ...";
+	$(elemento).text(limite);
+	}
+	}
+	$(function()
+	{
+	ellipsis_box(".limitado", 60);
+	});</script>
+
 <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
@@ -29,7 +43,7 @@ layout: main
                         {{ featured.date | date: site.date_format }}
                     {% endif %}
                 </time>
-                <h1 class="title">{{ featured.title }}</h1>
+                <h1 class="title limitado">{{ featured.title }}</h1>
                 <p class="description">{{ featured.subtitle }}</p>
                 <div class="buttons">
                     <a href="{{ featured.url | prepend: site.baseurl }}" role="button" class="button">
