@@ -1,7 +1,7 @@
 ---
 date: 2021-06-06 03:00:00 +0000
 layout: post
-title: El Salvador planea transformar Bitcoin en moneda de curso legal
+title: El Salvador planea convertir Bitcoin en moneda de curso legal
 subtitle: Si se aprueba el plan de ley, el territorio centroamericano se convertirá
   en el primero de todo el mundo en admitir legalmente la exitosa criptomoneda.
 description: Si se aprueba el plan de ley, el territorio centroamericano se convertirá
