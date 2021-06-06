@@ -1,5 +1,5 @@
 ---
-date: 2021-06-06 03:00:00 +0000
+date: 2021-06-06T03:00:00.000+00:00
 layout: post
 title: 'El Salvador planea transformar Bitcoin en moneda de curso legal '
 subtitle: 'Si se aprueba el plan de ley, el territorio centroamericano se convertirá
@@ -18,7 +18,7 @@ author: FocusTecno
 ---
 El **presidente del Salvador**, **Nayib Bukele**, comentó el sábado que enviará un plan de ley al Congreso la siguiente semana para que **Bitcoin sea moneda de curso legal** en el territorio.
 
-"A corto plazo, esto **generará empleos** y ayudará a brindar **integración financiera** a millares de individuos **fuera de la economía** formal", comentó Bukele en un clip de video mostrado en la conferencia Bitcoin 2021 en Miami.
+"A corto plazo, esto **generará empleos** y ayudará a brindar **integración financiera** a millares de individuos **fuera de la economía** formal", comentó Bukele en un clip de video mostrado en la conferencia Bitcoin 2021 en Miami.  
 
 {% include mycomponent.html %}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Welcome to the future 🇸🇻 <a href="https://twitter.com/hashtag/Bitcoin?src=hash&ref_src=twsrc%5Etfw">#Bitcoin</a> <a href="https://t.co/j30vcZVXvJ">pic.twitter.com/j30vcZVXvJ</a></p>— Nayib Bukele 🇸🇻 (@nayibbukele) <a href="https://twitter.com/nayibbukele/status/1401327906178191366?ref_src=twsrc%5Etfw">June 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
