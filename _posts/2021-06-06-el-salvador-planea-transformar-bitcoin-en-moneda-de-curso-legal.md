@@ -20,6 +20,8 @@ El **presidente del Salvador**, **Nayib Bukele**, comentó el sábado que enviar
 
 "A corto plazo, esto **generará empleos** y ayudará a brindar **integración financiera** a millares de individuos **fuera de la economía** formal", comentó Bukele en un clip de video mostrado en la conferencia Bitcoin 2021 en Miami.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Welcome to the future 🇸🇻 <a href="https://twitter.com/hashtag/Bitcoin?src=hash&ref_src=twsrc%5Etfw">#Bitcoin</a> <a href="https://t.co/j30vcZVXvJ">pic.twitter.com/j30vcZVXvJ</a></p>— Nayib Bukele 🇸🇻 (@nayibbukele) <a href="https://twitter.com/nayibbukele/status/1401327906178191366?ref_src=twsrc%5Etfw">June 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Implementando Bitcoin en El Salvador
 
 El Salvador está haciendo un trabajo con Strike, una aplicación de pagos móviles que se arrojó en el territorio en marzo, para llevar a cabo la tecnología Bitcoin.
