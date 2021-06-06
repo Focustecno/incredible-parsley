@@ -33,5 +33,6 @@ fields:
   name: author
   label: author
 pages:
+- _posts/el-salvador-planea-transformar-bitcoin-en-moneda-de-curso-legal.md
 - pages/comment-policy.md
 - politicas-de-privacidad.md
