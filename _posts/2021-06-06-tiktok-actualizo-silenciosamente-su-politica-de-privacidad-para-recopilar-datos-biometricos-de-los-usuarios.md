@@ -3,7 +3,7 @@ date: 2021-06-06 03:00:00 +0000
 layout: post
 title: TikTok actualizó silenciosamente su política de privacidad para recopilar datos
   biométricos de los usuarios
-subtitle: 'El exitosa servicio de trueque de clip de videos de formato corto TikTok
+subtitle: 'El exitosa servicio de intercambio de clip de videos de formato corto TikTok
   comprobó silenciosamente su política de privacidad en los EE. UU., Lo cual le permitió
   recopilar automáticamente información biométrica, como huellas faciales y de voz
   del contenido que sus usuarios publican en la plataforma. '
