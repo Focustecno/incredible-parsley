@@ -19,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: contact@focustecno.com
 disqus_username: focustecno
 formspree_form_id: formspree_form_id
 github_username: github_username
