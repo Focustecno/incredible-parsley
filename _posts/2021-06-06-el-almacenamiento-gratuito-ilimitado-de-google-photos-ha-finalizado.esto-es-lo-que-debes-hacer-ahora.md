@@ -1,5 +1,5 @@
 ---
-date: 2021-06-06 03:00:00 +0000
+date: 2021-06-06T03:00:00.000+00:00
 layout: post
 title: El almacenamiento gratuito ilimitado de Google Photos ha finalizado. Esto es
   lo que debes hacer ahora
@@ -16,7 +16,7 @@ tags:
 - Ilimitado
 - Google
 - Google Photos
-author: ''
+author: FocusTecno
 
 ---
 **Google Photos** ha puesto fin a su política de **almacenamiento gratuito ilimitado** para fotos y vídeos. **Desde el 1 de junio,** cada una de las fotos y clip de videos nuevos que cargue contarán para los **15 GB de almacenamiento gratuitos** que vienen con cada cuenta de Google. **No te preocupes:** las fotos o clip de videos que subiste previamente **_no van a ser parte del límite_**. Y Google ha añadido una totalmente **nueva herramienta gratuita** para ayudarlo a regir su cuota de almacenamiento.
