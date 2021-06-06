@@ -33,5 +33,6 @@ fields:
   name: author
   label: author
 pages:
+- _posts/el-almacenamiento-gratuito-ilimitado-de-google-photos-ha-finalizado.esto-es-lo-que-debes-hacer-ahora.md
 - pages/comment-policy.md
 - politicas-de-privacidad.md
