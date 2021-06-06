@@ -1,5 +1,5 @@
 ---
-date: 2021-06-06 03:00:00 +0000
+date: 2021-06-06T03:00:00.000+00:00
 layout: post
 title: El Salvador planea convertir Bitcoin en moneda de curso legal
 subtitle: Si se aprueba el plan de ley, el territorio centroamericano se convertirá
@@ -17,7 +17,7 @@ author: FocusTecno
 ---
 El **presidente del Salvador**, **Nayib Bukele**, comentó el sábado que enviará un plan de ley al Congreso la siguiente semana para que **Bitcoin sea moneda de curso legal** en el territorio.
 
-"A corto plazo, esto **generará empleos** y ayudará a brindar **integración financiera** a millares de individuos **fuera de la economía** formal", comentó Bukele en un clip de video mostrado en la conferencia Bitcoin 2021 en Miami.  
+"A corto plazo, esto **generará empleos** y ayudará a brindar **integración financiera** a millares de individuos **fuera de la economía** formal", comentó Bukele en un clip de video mostrado en la conferencia Bitcoin 2021 en Miami. 
 
 {% include mycomponent.html %}
 
@@ -39,7 +39,7 @@ Bitcoin es una criptomoneda, que es de propiedad privada y opera independienteme
 
 Las transacciones de Bitcoin se verifican digitalmente por medio de la utilización de la tecnología blockchain, que no está asociada a un servidor sino a una red universal de pcs, lo cual las hace menos vulnerables al fraude. Este es además el proceso que posibilita la sustracción de novedosas monedas, aun cuando hay un límite a la construcción de nuevos Bitcoins - 21 millones - una cifra que se alcanzará en 2040.
 
-\**Bitcoin** incrementó de $ 0.0008 a $ 0.08 en sus primeros 5 días a partir del lanzamiento y se ha disparado hasta casi $ 60,000 (€ 49,315) este año antecedente de colapsar un 40% el mes pasado.
+\*_Bitcoin_* incrementó de $ 0.0008 a $ 0.08 en sus primeros 5 días a partir del lanzamiento y se ha disparado hasta casi $ 60,000 (€ 49,315) este año antecedente de colapsar un 40% el mes pasado.
 
 Las monedas digitales parecen ser el futuro con ciertos territorios, incluida China, que en la actualidad permanecen demostrando su propia moneda digital. Varios analistas financieros consideran que la tecnología blockchain detrás de monedas como Bitcoin va a ser eficaz para el lanzamiento de variantes digitales de monedas existentes respaldadas por el regimen.
 
