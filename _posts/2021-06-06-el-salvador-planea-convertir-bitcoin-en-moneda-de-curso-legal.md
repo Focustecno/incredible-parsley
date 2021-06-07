@@ -25,7 +25,7 @@ El Salvador está haciendo un trabajo con Strike, una aplicación de pagos móvi
 
 "**Más del 70% poblacional activa** del Salvador no posee una cuenta bancaria. **No está en el sistema financiero**", comentó Jack Mallers, fundador de la aplicación de pagos móviles en la conferencia del sábado.
 
-\**!\[\](/uploads/el-salvador-planea-convertir-bitcoin-en-moneda-de-curso-legal-focustecno-3.jpg)**
+![](/uploads/el-salvador-planea-convertir-bitcoin-en-moneda-de-curso-legal-focustecno-3.jpg)
 
 "La adopción de una moneda digital nativa como moneda de curso legal da al Salvador la red de pagos abiertos más segura, eficiente y globalmente incorporada de todo el mundo", añadió Mallers.
 
