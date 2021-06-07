@@ -33,5 +33,6 @@ fields:
   name: author
   label: author
 pages:
+- _posts/jeff-bezos-ira-al-espacio-el-proximo-mes.md
 - pages/comment-policy.md
 - politicas-de-privacidad.md
