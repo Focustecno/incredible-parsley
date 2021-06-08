@@ -6,8 +6,8 @@ layout: null
     {% for post in site.posts %}
         <url>
             <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
+            <changefreq>always</changefreq>
+            <priority>0.9</priority>
             <lastmod>{{ post.date | date: "%Y-%m-%d" }}</lastmod>
         </url>
     {% endfor %}
