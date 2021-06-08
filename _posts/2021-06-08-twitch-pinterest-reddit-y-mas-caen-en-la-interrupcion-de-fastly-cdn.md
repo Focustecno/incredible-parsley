@@ -1,5 +1,5 @@
 ---
-date: 2021-06-08T14:00:00.000+00:00
+date: 2021-06-08 15:00:00 +0000
 layout: post
 title: Twitch, Pinterest, Reddit y más caen en la interrupción de Fastly CDN
 subtitle: Los sitios web de noticias y contenido sufren una interrupción global debido
