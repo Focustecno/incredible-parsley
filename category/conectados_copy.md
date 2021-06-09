@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Conectados
-slug: Conectados
-description: Conectados.
+title: Empresas
+slug: Empresas
+description: Empresas.
 ---
