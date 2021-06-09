@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Apple
-slug: apple
+slug: Apple
 description: Apple.
 ---
