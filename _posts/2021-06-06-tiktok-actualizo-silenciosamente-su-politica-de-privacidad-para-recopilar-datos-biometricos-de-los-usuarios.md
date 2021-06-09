@@ -11,7 +11,8 @@ description: 'TikTok comprobó silenciosamente su política de privacidad en los
   UU., Lo cual le permitió recopilar automáticamente información biométrica, '
 image: "/uploads/tiktok-comprobo-silenciosamente-su-politica-de-privacidad-en-los-ee-uu-lo-cual-le-permitio-recopilar-automaticamente-informacion-biometrica.jpg"
 optimized_image: "/uploads/min-tiktok-comprobo-silenciosamente-su-politica-de-privacidad-en-los-ee-uu-lo-cual-le-permitio-recopilar-automaticamente-informacion-biometrica.jpg"
-category: []
+category:
+- Conectados
 tags:
 - " datos biométricos"
 - Privacidad
