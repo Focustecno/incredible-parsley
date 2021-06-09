@@ -13,7 +13,8 @@ show_hero: true
 menu:
   - title: Inicio
     url: /
-    
+  - title: Apple
+    url: /category/apple
   - title: Apple
     url: /category/apple
   - title: ¿Quiénes somos?
