@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Apple
-slug: Apple
-description: Apple.
+title: Conectados
+slug: Conectados
+description: Conectados.
 ---
