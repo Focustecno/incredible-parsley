@@ -13,7 +13,7 @@ show_hero: true
 menu:
   - title: Inicio
     url: /
-  - title: About
+  - title: 
     url: /about
   - title: Contacto
     url: /contact
