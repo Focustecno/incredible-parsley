@@ -9,7 +9,8 @@ description: Reddit, Spotify y Twitch, Hulu y HBO Max, así como Financial Times
   en sus redes de entrega de contenido.
 image: "/uploads/reddit-spotify-y-twitch-hulu-y-hbo-max-asi-como-financial-times-nyt-y-bloomberg-enfrentaron-cortes-globales-despues-de-que-fastly-enfrentara-fallas-en-sus-redes-de-entrega-de-contenido-focus-tecno.jpg"
 optimized_image: "/uploads/min-reddit-spotify-y-twitch-hulu-y-hbo-max-asi-como-financial-times-nyt-y-bloomberg-enfrentaron-cortes-globales-despues-de-que-fastly-enfrentara-fallas-en-sus-redes-de-entrega-de-contenido-focus-tecno.jpg"
-category: []
+category:
+- Conectados
 tags:
 - fallas
 - github
