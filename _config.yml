@@ -13,8 +13,8 @@ show_hero: true
 menu:
   - title: Inicio
     url: /
-  - title: Apple
-    url: /category/apple
+  - title: Apps
+    url: /category/apps
   - title: Empresas
     url: /category/empresas
   - title: Apple
