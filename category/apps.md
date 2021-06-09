@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Conectados
-slug: Conectados
-description: Conectados.
+title: Apps
+slug: Apps
+description: Apps.
 ---
