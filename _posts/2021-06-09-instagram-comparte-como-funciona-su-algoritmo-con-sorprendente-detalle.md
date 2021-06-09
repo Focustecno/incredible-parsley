@@ -19,7 +19,7 @@ tags:
 author: FocusTecno
 
 ---
-**Adam Mosseri**, director de **Instagram**, empieza el largo blog aseverando que él y la red anhelan hacer un mejor trabajo definiendo **cómo funciona Instagram** con el objeto de dar dicha información para que sus usuarios logren saber mejor si la plataforma es digna de su confianza. . Es un objetivo audaz, sin embargo Mosseri plantea que desea disipar los conceptos falsos sobre la plataforma y contestar numerosas cuestiones como "¿Cómo dictamina Instagram lo cual surge primero para mí?"; "¿Por qué varias de mis **publicaciones** obtienen más vistas que otras?"; y “¿Cómo dictamina Instagram qué mostrarme en Explore?
+**Adam Mosseri**, director de **Instagram**, empieza el largo blog aseverando que él y la red anhelan hacer un mejor trabajo definiendo **como funciona el algoritmo de instagram** con el objeto de dar dicha información para que sus usuarios logren saber mejor si la plataforma es digna de su confianza. Es un objetivo audaz, sin embargo Mosseri plantea que desea disipar los conceptos falsos sobre la plataforma y contestar numerosas cuestiones como "¿Cómo dictamina Instagram lo cual surge primero para mí?"; "¿Por qué varias de mis **publicaciones** obtienen más vistas que otras?"; y “¿Cómo dictamina Instagram qué mostrarme en Explore?
 
 ![como funciona el algoritmo de instagram focus tecno](/uploads/minss-como-funciona-el-algoritmo-de-instagram-focus-tecno.jpg)
 
