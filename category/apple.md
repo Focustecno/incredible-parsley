@@ -4,4 +4,3 @@ title: Apple
 slug: Apple
 description: Apple.
 ---
-Apple
