@@ -1,15 +1,15 @@
 ---
 date: 2021-06-09 03:00:00 +0000
 layout: post
-title: Instagram comparte cómo funciona su 'algoritmo' con sorprendente detalle
+title: Instagram comparte cómo funciona su algoritmo con sorprendente detalle
 subtitle: 'La mayor parte de las plataformas de redes sociales envuelven la iniciativa
-  de "el algoritmo" en un misterio. Instagram parece estar rompiendo aquel molde,
-  debido a que ha publicado un blog descriptivo que explica cuál es su algoritmo y
-  cómo cataloga los feeds, Stories, Explore y Reels. '
-description: 'La mayor parte de las plataformas de redes sociales envuelven la iniciativa
-  de "el algoritmo" en un misterio. Instagram parece estar rompiendo aquel molde,
-  debido a que ha publicado un blog descriptivo que explica cuál es su algoritmo y
-  cómo cataloga los feeds, Stories, Explore y Reels. '
+  de el algoritmo en un misterio. Instagram parece estar rompiendo aquel molde, debido
+  a que ha publicado un blog descriptivo que explica cuál es su algoritmo y cómo cataloga
+  los feeds, Stories, Explore y Reels '
+description: La mayor parte de las plataformas de redes sociales envuelven la iniciativa
+  de el algoritmo en un misterio. Instagram parece estar rompiendo aquel molde, debido
+  a que ha publicado un blog descriptivo que explica cuál es su algoritmo y cómo cataloga
+  los feeds, Stories, Explore y Reels
 image: "/uploads/como-funciona-el-algoritmo-de-instagram-focus-tecno.jpg"
 optimized_image: "/uploads/min-como-funciona-el-algoritsmo-de-instagram-focus-tecno.jpg"
 category: Redes
