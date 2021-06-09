@@ -13,10 +13,10 @@ show_hero: true
 menu:
   - title: Inicio
     url: /
-  - title: ¿Quiénes somos?
-    url: /about
   - title: Contacto
     url: /contact
+  - title: ¿Quiénes somos?
+    url: /about
   - title: Feed
     url: /feed.xml
 email: contact@focustecno.com
