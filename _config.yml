@@ -13,10 +13,12 @@ show_hero: true
 menu:
   - title: Inicio
     url: /
+  - title: Empresas
+    url: /category/empresas
+  - title: Apple
+    url: /category/apple
   - title: ¿Quiénes somos?
     url: /about
-  - title: Contacto
-    url: /contact
   - title: Feed
     url: /feed.xml
 email: contact@focustecno.com
