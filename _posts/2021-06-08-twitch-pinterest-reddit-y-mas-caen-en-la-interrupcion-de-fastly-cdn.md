@@ -1,5 +1,5 @@
 ---
-date: 2021-06-08 03:00:00 +0000
+date: 2021-06-08T03:00:00.000+00:00
 layout: post
 title: Twitch, Pinterest, Reddit y más caen en la interrupción de Fastly CDN
 subtitle: Los sitios web de noticias y contenido sufren una interrupción global debido
@@ -9,7 +9,7 @@ description: Reddit, Spotify y Twitch, Hulu y HBO Max, así como Financial Times
   en sus redes de entrega de contenido.
 image: "/uploads/reddit-spotify-y-twitch-hulu-y-hbo-max-asi-como-financial-times-nyt-y-bloomberg-enfrentaron-cortes-globales-despues-de-que-fastly-enfrentara-fallas-en-sus-redes-de-entrega-de-contenido-focus-tecno.jpg"
 optimized_image: "/uploads/min-reddit-spotify-y-twitch-hulu-y-hbo-max-asi-como-financial-times-nyt-y-bloomberg-enfrentaron-cortes-globales-despues-de-que-fastly-enfrentara-fallas-en-sus-redes-de-entrega-de-contenido-focus-tecno.jpg"
-category: Conectados
+category: []
 tags:
 - fallas
 - github
