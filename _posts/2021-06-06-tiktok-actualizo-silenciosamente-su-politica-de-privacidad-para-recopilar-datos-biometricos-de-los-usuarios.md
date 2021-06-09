@@ -1,5 +1,5 @@
 ---
-date: 2021-06-06 03:00:00 +0000
+date: 2021-06-06T03:00:00.000+00:00
 layout: post
 title: TikTok actualizó silenciosamente su política de privacidad para recopilar datos
   biométricos de los usuarios
@@ -11,7 +11,7 @@ description: 'TikTok comprobó silenciosamente su política de privacidad en los
   UU., Lo cual le permitió recopilar automáticamente información biométrica, '
 image: "/uploads/tiktok-comprobo-silenciosamente-su-politica-de-privacidad-en-los-ee-uu-lo-cual-le-permitio-recopilar-automaticamente-informacion-biometrica.jpg"
 optimized_image: "/uploads/min-tiktok-comprobo-silenciosamente-su-politica-de-privacidad-en-los-ee-uu-lo-cual-le-permitio-recopilar-automaticamente-informacion-biometrica.jpg"
-category: Apps
+category: []
 tags:
 - " datos biométricos"
 - Privacidad
