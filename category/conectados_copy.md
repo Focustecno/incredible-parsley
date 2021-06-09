@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Apps
+title: Empresas
 slug: A
 description: Conectados.
 ---
