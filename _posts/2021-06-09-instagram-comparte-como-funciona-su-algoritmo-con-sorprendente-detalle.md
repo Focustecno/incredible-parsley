@@ -39,4 +39,4 @@ Al final, Mosseri explica cómo un cliente puede tener una predominación direct
 
 El blog fue el primero de una serie que va a tener como fin desmitificar la plataforma de una forma que contrasta de forma notable con otros servicios reconocidas como YouTube y, con suerte, va a ser solo la primera de muchas explicaciones de los grandes de las redes sociales en un futuro próximo.
 
-[**Aquí puede ver el enlace mencionado**]() 
+[**Aquí puede ver el enlace mencionado**](https://about.instagram.com/blog/announcements/shedding-more-light-on-how-instagram-works)
