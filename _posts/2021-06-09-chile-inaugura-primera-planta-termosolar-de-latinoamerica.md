@@ -1,13 +1,13 @@
 ---
-date: 2021-06-09 03:00:00 +0000
+date: 2021-06-09T03:00:00.000+00:00
 layout: post
 title: Chile inaugura primera planta termosolar de Latinoamérica
 subtitle: 'La planta puede producir electricidad perteneciente del sol las 24 horas
   del día por medio de la tecnología llamada concentración solar de potencia. '
 description: 'La planta puede producir electricidad perteneciente del sol las 24 horas
   del día por medio de la tecnología llamada concentración solar de potencia. '
-image: "/uploads/chile-inaugura-primera-planta-termosolar-de-latinoamerica-2s.jpg"
-optimized_image: "/uploads/chile-inaugura-primera-planta-termosolar-de-latinoamerica-2s.jpg"
+image: "/uploads/chile_inaugura_primera_planta_termosolar_de_latinoamerica_2s_dhq2gw.jpg"
+optimized_image: "/uploads/chile_inaugura_primera_planta_termosolar_de_latinoamerica_2s_dhq2gw-1.jpg"
 category: Energías
 tags:
 - 'energía '
