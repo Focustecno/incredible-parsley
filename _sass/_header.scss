@@ -125,6 +125,7 @@ body.light:not(.main-page) {
     .logo a,
     .version {
       color: $primaryDark;
+      filter: invert(1);
     }
   }
 }
