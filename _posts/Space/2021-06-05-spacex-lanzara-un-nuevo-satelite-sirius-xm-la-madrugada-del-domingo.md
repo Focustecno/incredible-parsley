@@ -5,7 +5,7 @@ title: SpaceX lanzará un nuevo satélite Sirius XM la madrugada del domingo.
 subtitle: El despegue está programado para las 12:29 a.m. EDT (0629 GMT).
 description: SpaceX lanzará un satélite de banda ancha para Sirius-XM la madrugada
   del domingo (6 de junio) y va a poder ver la acción en vivo online.
-image: "/uploads/spacex-lanza-un-nuevo-satelite-focus-tecno.jpg"
+image: "/uploads/spacex_lanza_un_nuevo_satelite_focus_tecno_eojxhj.jpg"
 optimized_image: "/uploads/min_spacex_lanza_un_nuevo_satelite_focus_tecno_vsv7tj.jpg"
 category: Space
 tags:
