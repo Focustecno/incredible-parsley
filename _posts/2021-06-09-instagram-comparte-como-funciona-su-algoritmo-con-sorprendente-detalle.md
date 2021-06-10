@@ -10,7 +10,7 @@ description: La mayor parte de las plataformas de redes sociales envuelven la in
   de el algoritmo en un misterio. Instagram parece estar rompiendo aquel molde, debido
   a que ha publicado un blog descriptivo que explica cuál es su algoritmo y cómo cataloga
   los feeds, Stories, Explore y Reels
-image: https://res.cloudinary.com/focustecno/image/upload/q_47/v1623314445/a_como_funciona_el_algoritmo_de_instagram_focus_tecno-min_o0vm65.jpg
+image: "/uploads/a_como_funciona_el_algoritmo_de_instagram_focus_tecno-min_o0vm65.jpg"
 optimized_image: "/uploads/min-como-funciona-el-algoritsmo-de-instagram-focus-tecno.jpg"
 category: Redes
 tags:
