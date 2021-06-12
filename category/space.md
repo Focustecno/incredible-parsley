@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Space
-slug: Empresas
-description: Empresas.
+slug: Space
+description: Space.
 ---
