@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Energías
-slug: energias
+slug: Energías
 description: Energías.
 ---
