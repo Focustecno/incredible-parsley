@@ -20,6 +20,8 @@ author: FocusTecno
 ---
 Sitios web reconocidas como **Reddit**, **Spotify**, **Twitch, Github** y diversos operados por medios de noticias como **Financial Times** , **The New York Times** y **Bloomberg** enfrentaron cortes globales el martes, debido a que el abastecedor de **CDN Fastly** confrontó fallas en su servicio.
 
+{% twitter [https://twitter.com/rubygems/status/518821243320287232](https://twitter.com/rubygems/status/518821243320287232 "https://twitter.com/rubygems/status/518821243320287232") %}
+
 El famosa abastecedor de **servicios CDN** confirmó que estaba investigando el efecto potencial en el manejo de sus servicios en su cibersitio. "El problema fue reconocido y **se está aplicando una solución**", redactó la compañía en su lugar web a las 4:14 pm IST del martes.
 
 Ciertos medios informaron que el grande del negocio electrónico **Amazon.com** **Inc**. además confrontó cortes, entre otros servicios reconocidas como **Hulu**, **Quora**, **HBO Max**, entre otros. Las redes de entrega de contenido, o CDN, son usadas por organizaciones que ejecutan redes globales de servidores. Ayudan a **mejorar el rendimiento** al **guardar en caché** los datos lo más cerca viable del cliente final, de manera l**as páginas web se carguen más veloz**, debido a que no se necesita obtener los datos del servidor original.
