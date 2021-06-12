@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Autos
+title: Ener
 slug: Autos
 description: Autos.
 ---
