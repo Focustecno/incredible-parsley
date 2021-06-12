@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Space
-slug: Space
-description: Space.
+title: Cripto
+slug: Cripto
+description: Cripto.
 ---
