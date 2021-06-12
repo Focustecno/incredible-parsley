@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Autos
-slug: Autos
-description: Autos.
+title: Salud
+slug: Salud
+description: Salud.
 ---
