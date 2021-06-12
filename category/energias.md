@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Ener
-slug: Autos
-description: Autos.
+title: Energías
+slug: Energías
+description: Energías.
 ---
