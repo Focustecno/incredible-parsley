@@ -20,7 +20,7 @@ author: FocusTecno
 ---
 Sitios web reconocidas como **Reddit**, **Spotify**, **Twitch, Github** y diversos operados por medios de noticias como **Financial Times** , **The New York Times** y **Bloomberg** enfrentaron cortes globales el martes, debido a que el abastecedor de **CDN Fastly** confrontó fallas en su servicio.
 
-{% twitter [https://twitter.com/rubygems/status/518821243320287232](https://twitter.com/rubygems/status/518821243320287232 "https://twitter.com/rubygems/status/518821243320287232") %}
+{% twitter [https://twitter.com/jekyllrb](https://twitter.com/jekyllrb "https://twitter.com/jekyllrb") maxwidth=500 limit=5 %}
 
 El famosa abastecedor de **servicios CDN** confirmó que estaba investigando el efecto potencial en el manejo de sus servicios en su cibersitio. "El problema fue reconocido y **se está aplicando una solución**", redactó la compañía en su lugar web a las 4:14 pm IST del martes.
 
