@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Cripto
-slug: Cripto
-description: Cripto.
+title: Autos
+slug: Autos
+description: Autos.
 ---
