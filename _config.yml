@@ -72,7 +72,6 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
-  - jekyll-twitter-plugin
 exclude:
   - package.json
   - package-lock.json
