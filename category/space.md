@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Empresas
+title: Space
 slug: Empresas
 description: Empresas.
 ---
