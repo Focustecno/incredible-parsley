@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/logo-autor.png
 name: FocusTecno
 display_name: FocusTecno
 position: Chief Editor
