@@ -1,5 +1,5 @@
 ---
-date: 2021-06-14 03:00:00 +0000
+date: 2021-06-14T03:00:00.000+00:00
 layout: post
 title: La DNG Team crea su propia criptomoneda?
 subtitle: La DNG Team anuncia su propio token, ya se encuentra en fase de pre-venta
@@ -28,7 +28,7 @@ Sus redes oficiales son:
 
 **Sitio Web:** [https://dngtoken.com/](https://dngtoken.com/ "https://dngtoken.com/")
 
-**Twitter:** [https://twitter.com/dngteamoficial](https://dngtoken.com/ "https://dngtoken.com/")
+**Twitter:** [https://twitter.com/dngteamoficial](https://twitter.com/dngteamoficial "https://twitter.com/dngteamoficial")
 
 **Instagram:** [https://www.instagram.com/dng_oficial/](https://dngtoken.com/ "https://dngtoken.com/")
 
