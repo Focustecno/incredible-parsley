@@ -18,7 +18,7 @@ El pasado 4 de junio **el denguee,** representante de la **DNG TEAM** anunció q
 
 En su sitio web oficial **dngtoken.com**, detallan la finalidad con la que fue lanzado este nuevo contrato inteligente dentro de la red de **Binance Smart Chain Mainnet (ERC20).**
 
-Esta [**moneda virtual **](https://focustecno.com/ "https://focustecno.com/")fue creada con el principal objetivo de aportar al crecimiento, expansión y promoción de la escena **Streaming** a nivel mundial.
+Esta [moneda virtual](https://focustecno.com/ "Focus") fue creada con el principal objetivo de aportar al crecimiento, expansión y promoción de la escena **Streaming** a nivel mundial.
 
 ![La DNG Team crea su propia criptomoneda?](/uploads/streamhouse_l2mpsu.png "La DNG Team crea su propia criptomoneda?")
 
