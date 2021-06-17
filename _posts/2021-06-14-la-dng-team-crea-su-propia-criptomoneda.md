@@ -20,6 +20,12 @@ En su sitio web oficial **dngtoken.com**, detallan la finalidad con la que fue l
 
 Esta [moneda virtual](https://focustecno.com/ "Focus") fue creada con el principal objetivo de aportar al crecimiento, expansión y promoción de la escena **Streaming** a nivel mundial.
 
+**DNG Team Token**, trae consigo una serie de subproyectos muy interesantes que veremos en un futuro como: una plataforma para comercializar **NFT** y la posibilidad de **minar DNG Token.**
+
+## Post Pre-venta
+
+Luego del lanzamiento oficial, **DNG Token**, actualizó su pagina web oficial, mostrando una explicación detallada y una hoja de ruta sobre como se llevara a cabo este proyecto, dejando en claro que el proyecto esta en pleno desarrollo y muy pronto veremos nuevas actualización del ecosistema **DNG.**
+
 ![La DNG Team crea su propia criptomoneda?](/uploads/streamhouse_l2mpsu.png "La DNG Team crea su propia criptomoneda?")
 
 El **precio actual del token** es de 1.750.000.000.000 DNG por 1 **BNB** y la compra mínima es de 0,1 BNB.
