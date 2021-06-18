@@ -26,7 +26,7 @@ Esta [moneda virtual](https://focustecno.com/ "Focus") fue creada con el princip
 
 Luego del lanzamiento oficial, **DNG Token**, actualizó su pagina web oficial, mostrando una explicación detallada y una hoja de ruta sobre como se llevara a cabo este proyecto, dejando en claro que el proyecto esta en pleno desarrollo y muy pronto veremos nuevas actualización del ecosistema **DNG.**
 
-
+<br>
 <div itemscope itemtype="http://schema.org/Corporation">
 <a itemprop="url" href="http://dngtoken.com/"><div itemprop="name"><strong>DNG Team</strong></div>
 </a>
