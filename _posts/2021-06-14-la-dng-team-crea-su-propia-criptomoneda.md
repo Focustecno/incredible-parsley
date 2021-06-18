@@ -26,6 +26,22 @@ Esta [moneda virtual](https://focustecno.com/ "Focus") fue creada con el princip
 
 Luego del lanzamiento oficial, **DNG Token**, actualizó su pagina web oficial, mostrando una explicación detallada y una hoja de ruta sobre como se llevara a cabo este proyecto, dejando en claro que el proyecto esta en pleno desarrollo y muy pronto veremos nuevas actualización del ecosistema **DNG.**
 
+<div itemscope itemtype="[http://schema.org/Corporation](http://schema.org/Corporation "http://schema.org/Corporation")">
+
+<a itemprop="url" href="[http://dngtoken.com/](http://schema.org/Corporation "http://schema.org/Corporation")"><div itemprop="name"><strong>DNG Team</strong></div>
+
+</a>
+
+<div itemprop="description">DNG Team es una comunidad reconocida en Argentina que a través de un token estable tiene como objetivo Tokenizar ciertos proyectos comerciales y empresariales con tecnología blockhain.</div>
+
+<div itemprop="address" itemscope itemtype="[http://schema.org/PostalAddress](http://schema.org/Corporation "http://schema.org/Corporation")">
+
+<span itemprop="addressCountry">Argentina</span><br>
+
+</div>
+
+</div>
+
 ![La DNG Team crea su propia criptomoneda?](/uploads/streamhouse_l2mpsu.png "La DNG Team crea su propia criptomoneda?")
 
 El **precio actual del token** es de 1.750.000.000.000 DNG por 1 **BNB** y la compra mínima es de 0,1 BNB.
