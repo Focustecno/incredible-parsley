@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Space
-slug: Space
-description: Space.
+title: Windows
+slug: windows
+description: Windows.
 ---
