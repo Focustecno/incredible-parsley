@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Windows
-slug: windows
+slug: Windows
 description: Windows.
 ---

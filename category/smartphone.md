@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Smartphone
-slug: smartphone
+slug: Smartphone
 description: Smartphone.
 ---
