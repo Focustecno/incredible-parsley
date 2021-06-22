@@ -33,6 +33,7 @@ fields:
   name: author
   label: author
 pages:
+- _posts/12-reglas-de-riqueza-del-magnate-petrolero-john-d.rockefeller.md
 - _posts/2021-06-07-jeff-bezos-ira-al-espacio-el-proximo-mes.md
 - _posts/2021-06-09-chile-inaugura-primera-planta-termosolar-de-latinoamerica.md
 - pages/comment-policy.md
