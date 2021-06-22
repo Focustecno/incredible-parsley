@@ -1,7 +1,7 @@
 ---
 date: 2021-06-22 03:00:00 +0000
 layout: post
-title: 12 reglas de riqueza del magnate petrolero John D. Rockefeller
+title: "\U0001F4B012 reglas de riqueza del magnate petrolero John D. Rockefeller"
 subtitle: Conoce y aplica las reglas del magnate petrolero John D. Rockefeller para
   convertirte en una persona exitosa.
 description: Conoce y aplica las reglas del magnate petrolero John D. Rockefeller
