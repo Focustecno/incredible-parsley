@@ -1,0 +1,23 @@
+<div id="box">
+    <a id="a"><img id="image" /></a>
+</div>
+
+<script type='text/javascript'> 
+var images = 
+[
+    imageUrlPair = { ImgSrc:"1.jpg", Href:"http://ejemplo 1" },
+    imageUrlPair = { ImgSrc:"2.jpg", Href:"http://ejemplo 2" },
+    imageUrlPair = { ImgSrc:"3.jpg", Href:"http://ejemplo 3" },
+    imageUrlPair = { ImgSrc:"4.jpg", Href:"http://ejemplo 4" },
+]
+
+function randImg() {
+var size = images.length;
+var x = Math.floor(size * Math.random());
+var randomItem = images[x];
+document.getElementById('image').src = randomItem.ImgSrc;
+document.getElementById('a').href = randomItem.Href;
+}
+
+randImg();
+</script>
