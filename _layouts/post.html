@@ -37,6 +37,12 @@
 
             {% if site.two_columns_layout %}
                 <aside class="see-also">
+<iframe src="https://example.com"
+        loading="lazy"
+        width="600"
+        height="400"></iframe>
+                <br/>
+
                     <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
                     <ul>
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
