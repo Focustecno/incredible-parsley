@@ -1,7 +1,7 @@
 ---
 date: 2021-06-23 03:00:00 +0000
 layout: post
-title: Las 10 reglas para el éxito según Henry Ford
+title: "\U0001F947 Las 10 reglas para el éxito según Henry Ford"
 subtitle: Conoce y aplica las reglas de Henry Ford  para convertirte en una persona
   exitosa.
 description: Conoce y aplica las reglas de Henry Ford  para convertirte en una persona
