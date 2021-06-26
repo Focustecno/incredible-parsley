@@ -10,7 +10,7 @@ layout: null
     <atom:link href="https://focustecno.com/google-news-1.xml" rel="self" type="application/rss+xml" />
     <link>{{ site.url }}{{ site.baseurl }}/</link>
     <pubDate>{{ site.time }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <lastBuildDate>{{ site.time }}</lastBuildDate>
     <generator>FocusTecno Sistem</generator>
     {% for post in site.posts limit:10 %}
       <item>
