@@ -20,7 +20,7 @@ layout: null
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
         {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
+        <category>{{ cat }}</category>
         {% endfor %}
       </item>
     {% endfor %}
