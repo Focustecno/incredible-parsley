@@ -5,7 +5,7 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <language>es-es</language>
-    <title>{{ post.url | prepend: site.baseurl | prepend: site.url }}{{ page.url | prepend: site.baseurl | prepend: site.url }}</title>
+    <title>{{ page.url | prepend: site.baseurl | prepend: site.url }}</title>
     <description>{{ site.description }}</description>
     <atom:link href="https://focustecno.com/google-news-1.xml" rel="self" type="application/rss+xml" />
     <link>{{ site.url }}{{ site.baseurl }}/</link>
