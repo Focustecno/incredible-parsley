@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/logo-autor.jpg
+photo: /assets/img/uploads/marco-sottile.jpg
 name: Marco Sottile
 display_name: Marco Sottile
 position: Focus Staff
