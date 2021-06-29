@@ -4,4 +4,4 @@ title: Energías
 slug: Energías
 description: Energías.
 ---
-hhhhh
+<img src="/assets/img/blog-image.png"/>
