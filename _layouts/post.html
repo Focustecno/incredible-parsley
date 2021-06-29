@@ -22,9 +22,16 @@
                 <h1 class="post-title">{{ page.title }}</h1>
                 <p class="post-subtitle">{{ page.subtitle }}</p>
                 
-                <img class="img-rounded" src="{{ author.photo }}" alt="{{ author.display_name }}">
 
+                {% if author.photo %}
+        <img class="img-rounded" src="{{ author.photo }}" alt="{{ author.display_name }}">
+      {% else %}
         <img class="img-rounded" src="/assets/img/user.jpg" alt="{{ author.display_name }}">
+      {% endif %}
+                
+                
+                
+                
 
                 {% if page.image and paginator.activated == nil %}
                     <img src="{{ page.image }}" alt="Featured image" class="post-cover">
