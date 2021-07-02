@@ -18,7 +18,7 @@ tags:
 author: Marco Sottile
 
 ---
-LUZ, GENÉTICA Y ACCIÓN, ¿la receta para el control mental?
+Luz, genética y acción ¿la receta para el control mental?
 
 Tranquilos, aún no hay control mental, nadie me está obligando a escribir lo contrario ni tampoco viene Morfeo a ofrecerme la pastilla roja o azul. Lo que sí es una realidad es que unos científicos programaron ratones para que sean amigos usando implantes cerebrales estimulantes de neuronas.
 
