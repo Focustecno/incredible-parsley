@@ -45,7 +45,7 @@ En el ensayo con los ratones, lograron evitar usar cables para que estos no cond
 
 En un experimento, se emparejaron ratones desconocidos y se estimularon sus cerebros simultáneamente. Casi la mitad de las parejas de ratones participaron en comportamientos sociales como acicalarse y olfatear con extraños.
 
-<video src="https://res.cloudinary.com/focustecno/video/upload/v1625204604/Qu%C3%A9%20es%20la%20Optogen%C3%A9tica%20y%20para%20qu%C3%A9%20sirve.mp4" width="640" height="480"></video>
+<video controls  src="https://res.cloudinary.com/focustecno/video/upload/v1625204604/Qu%C3%A9%20es%20la%20Optogen%C3%A9tica%20y%20para%20qu%C3%A9%20sirve.mp4" width="640" height="480"></video>
 
 Cuando los ratones recibieron señales no sincronizadas, solo una cuarta parte de las parejas de ratones interactuaron y lo hicieron durante un período más corto.
 
