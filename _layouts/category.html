@@ -9,6 +9,11 @@
                 <div style="width:100%;background:url({{page.image}});text-align: center;padding:10vh;margin-bottom:20px;background-size:cover;background-position: center;">
                     <h1 style="text-transform: capitalize;margin: 0;" class="title-category">{{page.title}}</h1>
                 </div>
+                
+                <div>
+                    <p>{{page.texta}}</p>
+                </div>
+                
                 <div id="grid" class="row flex-grid">
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for post in posts %}
