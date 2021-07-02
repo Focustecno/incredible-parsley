@@ -18,9 +18,7 @@ tags:
 author: Marco Sottile
 
 ---
-Luz, genética y acción ¿la receta para el control mental?
-
-Tranquilos, aún no hay control mental, nadie me está obligando a escribir lo contrario ni tampoco viene Morfeo a ofrecerme la pastilla roja o azul. Lo que sí es una realidad es que unos científicos programaron ratones para que sean amigos usando implantes cerebrales estimulantes de neuronas.
+Luz, genética y acción ¿la receta para el control mental? Tranquilos, aún no hay control mental, nadie me está obligando a escribir lo contrario ni tampoco viene Morfeo a ofrecerme la pastilla roja o azul. Lo que sí es una realidad es que unos científicos programaron ratones para que sean amigos usando implantes cerebrales estimulantes de neuronas.
 
 Difícilmente esta noticia no funcione como leña para los conspiradores que creen que vivimos en la matrix o somos un complejo juego de Sims. De ser esta última, mi jugador aún no conoce el truco Motherlode $$$$.
 
