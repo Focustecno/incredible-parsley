@@ -57,8 +57,7 @@ Esta es sin duda una de las **actualizaciones más potentes** que veremos en **m
 
 ## Dispositivos Compatibles con macOS Monterey
 
-###   
-iMac
+### iMac
 
 Finales de 2015 y posteriores
 
