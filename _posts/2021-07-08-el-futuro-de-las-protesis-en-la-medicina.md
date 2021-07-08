@@ -1,7 +1,7 @@
 ---
 date: 2021-07-08 03:00:00 +0000
 layout: post
-title: El futuro de las prótesis en la medicina
+title: "▷ El futuro de las prótesis en la medicina"
 subtitle: Como la osteointegración puede lograr que una prótesis pueda sentir como
   si fuera una parte de nuestro cuerpo
 description: Como la osteointegración puede lograr que una prótesis pueda sentir como
