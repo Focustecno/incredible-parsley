@@ -10,7 +10,7 @@ $theme: (
   /* Firefox */
   * {
     scrollbar-width: 10px;
-    scrollbar-color: #ccc5 #fff0
+    scrollbar-color: #ccc7 #fff0
   }
 
   /* Chrome, Edge, and Safari */
@@ -23,7 +23,7 @@ $theme: (
   }
 
   *::-webkit-scrollbar-thumb {
-    background-color: #ccc5;
+    background-color: #ccc7;
     border-radius: 10px;
-    border: 3px solid #fff0;
+    border: 3px solid #fff;
   }
