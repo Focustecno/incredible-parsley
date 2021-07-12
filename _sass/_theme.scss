@@ -9,7 +9,7 @@ $theme: (
 
   /* Firefox */
   * {
-    scrollbar-width: auto;
+    scrollbar-width: 10px;
     scrollbar-color: #8f54a0 #fff0
   }
 
@@ -20,6 +20,7 @@ $theme: (
 
   *::-webkit-scrollbar-track {
     background: #fff0;
+    padding:5px
   }
 
   *::-webkit-scrollbar-thumb {
