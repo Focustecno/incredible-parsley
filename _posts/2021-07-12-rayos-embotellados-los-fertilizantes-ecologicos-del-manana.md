@@ -59,11 +59,10 @@ Otro origen poco conocido de compuestos nitrogenados naturales son, como estará
 El problema al querer imitar este proceso recae en el uso de electricidad para convertir nitrógeno directamente en amoníaco, requiere un consumo enorme porque el nitrógeno es tan estable que es muy difícil disolverlo en agua.
 
 Por suerte unos científicos australianos lograron juntar ideas y crear un reactor de columna de burbujas de plasma que primero convierte el nitrógeno atmosférico en NOx como un rayo, y luego electroliza el agua para producir hidrógeno que desplaza el oxígeno.
-
   
 ![](/uploads/get_pf2xdz.jpg)
-
-<video controls  src="https://res.cloudinary.com/focustecno/video/upload/v1626085589/Rayos%20embotellados%2C%20los%20fertilizantes%20ecol%C3%B3gicos%20del%20ma%C3%B1ana.mp4" width="488" height="350"></video>
+<br>
+<video style="margin:auto" controls  src="https://res.cloudinary.com/focustecno/video/upload/v1626085589/Rayos%20embotellados%2C%20los%20fertilizantes%20ecol%C3%B3gicos%20del%20ma%C3%B1ana.mp4" width="488" height="350"></video>
 
 Lo increíble de esta tecnología es que además de no requerir combustibles fósiles, puede operar en una variedad de escalas. Podría usarse para producir amoníaco directamente en el sitio y bajo demanda, lo que significa que no hay necesidad de almacenamiento y transporte. Esto último no es poca cosa, seguro todos recordamos lo sucedido en Beirut hace menos de un año donde explotó un depósito de nitrato de amonio y arrasó con gran parte del puerto.
 
