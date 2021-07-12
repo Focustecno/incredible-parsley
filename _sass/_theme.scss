@@ -9,13 +9,13 @@ $theme: (
 
   /* Firefox */
   * {
-    scrollbar-width: 15px;
+    scrollbar-width: 10px;
     scrollbar-color: #ccc #fff0
   }
 
   /* Chrome, Edge, and Safari */
   *::-webkit-scrollbar {
-    width: 15px;
+    width: 10px;
   }
 
   *::-webkit-scrollbar-track {
