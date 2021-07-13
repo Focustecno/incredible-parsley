@@ -25,7 +25,19 @@
             {% include links.html %}
             
      </div>
-      <div class="col-footer">  
+      <div class="col-footer">
+        
+         <ul>
+                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+                        {% assign shuffled_array = next_posts | shuffle %}
+                        {% for post in shuffled_array limit:5 %}
+                            <li>
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    <h3>{{ post.title }}</h3>
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
             
     </div>
        
