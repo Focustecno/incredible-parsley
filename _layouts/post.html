@@ -89,9 +89,10 @@
 		
 <script>	
 function insertHtml(){
-$(".post-content h2").html("<span>este codigo html fue insertado</span>")
+$(".post-content h2:before").html("<span>este codigo html fue insertado</span>")
 };		
-</script>		
+</script>
+<script>window.onload="insertHtml()"</script>
 		
                 <aside class="see-also">
 			
