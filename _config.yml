@@ -32,7 +32,7 @@ twitter_username: focus_tecno
 instagram_username: focustecno.ok
 linkedin_username: linkedin_username
 medium_username: medium_username
-show_time_bar: true
+show_time_bar: fasle
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: true
