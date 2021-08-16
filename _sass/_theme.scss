@@ -28,6 +28,9 @@ $theme: (
     border: 3px solid #fff1;
   }
 
+.ads-box{text-align:center;background: linear-gradient(45deg, white 25%,#ececec 25%, #ececec 50%, white 50%, white 75%, #ececec 75%);background-size:10px 10px;width:100%}
+
+
 @media only screen and (max-width: 600px) {
   .ads-mobil {
     display: block;
