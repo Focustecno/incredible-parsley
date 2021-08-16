@@ -1,5 +1,5 @@
 ---
-date: 2021-06-29 03:00:00 +0000
+date: 2021-06-29T03:00:00.000+00:00
 layout: post
 title: Windcatcher ¿El barco más ecológico no tripulado que podría existir?
 subtitle: Es una realidad que el cambio climático, no sólo existe sino que ya nos
@@ -38,7 +38,7 @@ Para realizar operaciones en las **granjas acuáticas de molinos de viento** se 
 
 Los noruegos en cambio, planean instalar en su **mega estructura**, donde se encontrarán **todas las turbinas a la vez,** ascensores, llegando con mayor facilidad a todos ellos y **abaratando los costos de reparación.**
 
-Basándose en que para los molinos, **el costo y peso aumenta** con el radio^3 pero la energía producida con el radio^2, llegaron a su innovadora forma donde, no sólo agruparon las turbinas en una sola estructura, sino que **las volvieron más pequeña**s. Los científicos cuentan que al hacerlas de menor tamaño la producción energética no es menor ya que al tener menor superficie de contacto**, los efectos de resistencia son menores.**
+Basándose en que para los molinos, **el costo y peso aumenta** con el radio^3 pero la energía producida con el radio^2, llegaron a su innovadora forma donde, no sólo agruparon las turbinas en una sola estructura, sino que **las volvieron más pequeña__s. Los científicos cuentan que al hacerlas de menor tamaño la producción energética no es menor ya que al tener menor superficie de contacto**, los efectos de resistencia son menores.**
 
 Por otro lado, los remolinos que genera en el viento una turbina, produce que **la turbina contigua pueda sacar más provecho de la energía cinética** que carga el viento, en un fenómeno de volver más turbulento al parcial flujo **laminar del fluido gaseoso**, volviendo así **más eficiente** la transferencia de **energía** desde el viento a la turbina.
 
