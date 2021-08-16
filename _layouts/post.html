@@ -43,16 +43,15 @@
             </article>
 
             {% if site.two_columns_layout %}
+		
                 <aside class="see-also">
-           
+			
+<!-- banner 1 sponsors 1:1 -->	           
 <h2>Sponsors</h2>
-<div width="100%" style="text-align:center;background: linear-gradient(45deg, white 25%,
-    #ececec 25%, #ececec 50%, 
-    white 50%, white 75%, 
-    #ececec 75%);
-background-size:10px 10px;">
+<div class="ads-box">	
 <iframe src="https://focustecno.com/ads/sidebar1" loading="lazy" width="250" height="250" frameBorder="0"  scrolling="no"></iframe>
 </div>
+<!-- banner 1 sponsors 1:1 -->				
                     
                     
 <!-- Begin Mailchimp Signup Form -->
@@ -62,6 +61,8 @@ background-size:10px 10px;">
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
+		
+			
 <div id="mc_embed_signup" style="border: 1px #ccc5 solid;
     border-radius: 10px;margin-top:20px">
 <form action="https://cicloride.us6.list-manage.com/subscribe/post?u=131de16c60bdce1977c7d80e7&amp;id=03b3b0c4b7" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -74,10 +75,9 @@ background-size:10px 10px;">
     </div>
 </form>
 </div>
-
-<!--End mc_embed_signup-->
+<!-- Begin Mailchimp Signup Form -->
                     
-
+<!-- post relacionados -->
                     <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
                     <ul>
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
@@ -97,17 +97,14 @@ background-size:10px 10px;">
                             </li>
                         {% endfor %}
                     </ul>
-
-
-<div width="100%" style="text-align:center;background: linear-gradient(45deg, white 25%,
-    #ececec 25%, #ececec 50%, 
-    white 50%, white 75%, 
-    #ececec 75%);
-background-size:10px 10px;">
-
+<!-- post relacionados -->
+			
+<!-- banner aads 1:1 -->
+<div class="ads-box">
 <iframe data-aa="1661010" src="//ad.a-ads.com/1661010?size=200x200" scrolling="no" style="width:200px; height:200px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
 </div>
-hola
+<!-- banner aads 1:1 -->
+			
                 </aside>
 
             {% endif %}
