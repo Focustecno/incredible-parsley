@@ -194,11 +194,14 @@
 
         {% include subscription.html %}
         
-        
+            
 	    
 	<!-- post relacionados -->
-                    <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
-                    <ul>
+	     <div style="overflow-y: hidden;
+    overflow-x: scroll;
+    white-space: nowrap;
+    display: inline-block;">
+                    <ul style="display: flex;">
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
                         {% assign shuffled_array = next_posts | shuffle %}
                         {% for post in shuffled_array limit:6 %}
@@ -216,6 +219,8 @@
                             </li>
                         {% endfor %}
                     </ul>
+	    {% endif %}
+		     </div>
 <!-- post relacionados -->    
 	    
 	    
