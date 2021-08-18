@@ -3,14 +3,14 @@
   <section class="author">
     <div class="details">
       <div style="display:flex;width:100%;flex-direction:column">
-        <div class="width:25%">
+        <div style="width:25%">
           {% if author.photo %}
             <img class="img-rounded" src="{{ author.photo }}" alt="{{ author.display_name }}">
           {% else %}
             <img class="img-rounded" src="/assets/img/user.jpg" alt="{{ author.display_name }}">
           {% endif %}
           </div>
-          <div class="width:70%">
+          <div style="width:70%">
           <p class="def">{{ site.translations.text.author | default: "Autor" }}</p>
           <h3 class="name">
             <a href="{{ author.url }}">{{ author.display_name }}</a>
