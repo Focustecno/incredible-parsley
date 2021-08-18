@@ -207,7 +207,7 @@
                         {% assign shuffled_array = next_posts | shuffle %}
                         {% for post in shuffled_array limit:12 %}
                             <li>
-                                <a style="white-space: normal;text-decoration: none;color#000" href="{{ post.url | prepend: site.baseurl }}">
+                                <a style="white-space: normal;text-decoration: none;color:#000" href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
                                         <img src="{{ post.optimized_image }}">
                                     {% elsif post.image %}
