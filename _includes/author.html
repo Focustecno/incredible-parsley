@@ -2,18 +2,23 @@
 {% if author %}
   <section class="author">
     <div class="details">
-      {% if author.photo %}
-        <img class="img-rounded" src="{{ author.photo }}" alt="{{ author.display_name }}">
-      {% else %}
-        <img class="img-rounded" src="/assets/img/user.jpg" alt="{{ author.display_name }}">
-      {% endif %}
-      <p class="def">{{ site.translations.text.author | default: "Autor" }}</p>
-      <h3 class="name">
-        <a href="{{ author.url }}">{{ author.display_name }}</a>
-      </h3>
-      <p class="desc">{{ author.bio }}</p>
-      <p>
-
+      <div style="display:flex;width:100%;flex-direction:column">
+        <div class="width:25%">
+          {% if author.photo %}
+            <img class="img-rounded" src="{{ author.photo }}" alt="{{ author.display_name }}">
+          {% else %}
+            <img class="img-rounded" src="/assets/img/user.jpg" alt="{{ author.display_name }}">
+          {% endif %}
+          </div>
+          <div class="width:70%">
+          <p class="def">{{ site.translations.text.author | default: "Autor" }}</p>
+          <h3 class="name">
+            <a href="{{ author.url }}">{{ author.display_name }}</a>
+          </h3>
+          <p class="desc">{{ author.bio }}</p>
+          <p>
+        </div>
+      </div>
         {% if author.facebook_username %}
           <a href="https://www.facebook.com/{{ author.facebook_username }}" title="Facebook">
             <svg><use xlink:href="#icon-facebook"></use></svg>
