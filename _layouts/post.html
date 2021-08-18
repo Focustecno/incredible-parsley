@@ -197,11 +197,12 @@
             
 	    
 	<!-- post relacionados -->
-	     <div style="overflow-y: hidden;
+	     <div class="img-relb" style="overflow-y: hidden;
     overflow-x: scroll;
     white-space: nowrap;
-    display: inline-block;">
+    display: inline-block;max-width: 100%;">
                     <ul style="display: flex;">
+			    <style>.img-relb img{max-width: 200px;object-fit: cover;height: 200px;}.img-relb h3,.img-relb li{max-width: 200px;}</style>  
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
                         {% assign shuffled_array = next_posts | shuffle %}
                         {% for post in shuffled_array limit:6 %}
