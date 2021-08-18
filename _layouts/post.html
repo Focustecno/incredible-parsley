@@ -99,7 +99,7 @@
 </div>
 <!-- Begin Mailchimp Signup Form -->
                      
-
+{% include comments.html %}
                 {% include pagination-post.html %}
             </article>
 
@@ -188,7 +188,7 @@
         {% include subscription.html %}
         {% include share.html %}
         {% include author.html %}
-        {% include comments.html %}
+        
         {% include footer.html %}
 
         {% assign author = site.authors | where: "name", post.author | first %}
