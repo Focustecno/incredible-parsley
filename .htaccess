@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^master--incredible-parsley-b9433.netlify.app$ [NC]
+RewriteRule ^(.*)$ https://focustecno.com/ [R=301,L]
