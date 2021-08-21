@@ -2,9 +2,9 @@
 command = "jekyll build"
 publish = "_site"
 
-[[redirects]]
+[redirects]
   from = "https://master--incredible-parsley-b9433.netlify.app/"
   to = "https://focustecno.com/"
   status = 301
-  force = false
+  force = true
   query = {path = ":path"}
