@@ -28,3 +28,5 @@ En agosto, un tribunal ruso además multó a Google por primera ocasión por neg
 Recordemos que casi cada una de las primordiales redes sociales, incluidas Twitter , TikTok , Facebook , VKontakte y el mensajero Telegram, han acogido multas por negarse a remover contenido prohibido en la Federación de Rusia .
 
 El 1 de febrero entró en vigor una ley en la Federación de Rusia que impone a las redes sociales a detectar y bloquear de manera sin dependencia el contenido ilegal.
+
+Fuente: [forklog](https://forklog.com/ "https://forklog.com/")
