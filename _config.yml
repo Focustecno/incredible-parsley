@@ -13,6 +13,8 @@ show_hero: true
 menu:
   - title: Inicio
     url: /
+  - title: Cripto
+    url: /category/cripto
   - title: Apple
     url: /category/apple
   - title: Apps
