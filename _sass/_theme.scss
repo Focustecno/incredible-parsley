@@ -42,6 +42,11 @@ $theme: (
   width: 95%;
     margin: auto;
   }
+  
+  body .wpcc-container {
+    bottom: 60px;
+  }
+  
 }
 @media only screen and (min-width: 600px) {
   .ads-mobil {
