@@ -22,7 +22,7 @@ De acuerdo con el informado, el servicio incluido posibilita a bastante más de 
 
 Para hacer esto, tienen que bajar la aplicación móvil WL Crypto Payments o instalar el complemento de pago Worldline en el portal web de la tienda online.
 
-Los costos cotizados por el comerciante en francos suizos se transforman en activos digitales en tiempo real. 
+Los costos cotizados por el comerciante en francos suizos se transforman en activos digitales en tiempo real.
 
 La transacción de criptomonedas se convierte a fiat rápidamente luego de la afirmación del pago para evadir el peligro de volatilidad.
 
@@ -34,4 +34,6 @@ Recuerde que en 2020, Bitcoin Suisse recaudó $ 48 millones para escalar negocio
 
 En noviembre, la compañía arrojó un servicio de colaboración en la red Ethereum 2.0, lo cual la ayudó a duplicar sus volúmenes de operaciones.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">HELLO BITCOIN - After months of hard work, we are proud to see <a href="https://twitter.com/hashtag/cryptopayments?src=hash&amp;ref_src=twsrc%5Etfw">#cryptopayments</a> go live in cooperation with Worldline - making payments in <a href="https://twitter.com/hashtag/Bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#Bitcoin</a> and <a href="https://twitter.com/hashtag/Ether?src=hash&amp;ref_src=twsrc%5Etfw">#Ether</a> available to thousands of merchants in Switzerland! <a href="https://t.co/fOnZCENUls">https://t.co/fOnZCENUls</a><a href="https://twitter.com/hashtag/crypto?src=hash&amp;ref_src=twsrc%5Etfw">#crypto</a> <a href="https://twitter.com/hashtag/cryptocurrencies?src=hash&amp;ref_src=twsrc%5Etfw">#cryptocurrencies</a> <a href="https://twitter.com/hashtag/blockchain?src=hash&amp;ref_src=twsrc%5Etfw">#blockchain</a> <a href="https://twitter.com/hashtag/btc?src=hash&amp;ref_src=twsrc%5Etfw">#btc</a></p>&mdash; Bitcoin Suisse (@BitcoinSuisseAG) <a href="https://twitter.com/BitcoinSuisseAG/status/1428253217725497349?ref_src=twsrc%5Etfw">August 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">HELLO BITCOIN - After months of hard work, we are proud to see <a href="https://twitter.com/hashtag/cryptopayments?src=hash&ref_src=twsrc%5Etfw">#cryptopayments</a> go live in cooperation with Worldline - making payments in <a href="https://twitter.com/hashtag/Bitcoin?src=hash&ref_src=twsrc%5Etfw">#Bitcoin</a> and <a href="https://twitter.com/hashtag/Ether?src=hash&ref_src=twsrc%5Etfw">#Ether</a> available to thousands of merchants in Switzerland! <a href="https://t.co/fOnZCENUls">https://t.co/fOnZCENUls</a><a href="https://twitter.com/hashtag/crypto?src=hash&ref_src=twsrc%5Etfw">#crypto</a> <a href="https://twitter.com/hashtag/cryptocurrencies?src=hash&ref_src=twsrc%5Etfw">#cryptocurrencies</a> <a href="https://twitter.com/hashtag/blockchain?src=hash&ref_src=twsrc%5Etfw">#blockchain</a> <a href="https://twitter.com/hashtag/btc?src=hash&ref_src=twsrc%5Etfw">#btc</a></p>— Bitcoin Suisse (@BitcoinSuisseAG) <a href="https://twitter.com/BitcoinSuisseAG/status/1428253217725497349?ref_src=twsrc%5Etfw">August 19, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Fuente: [forklog](https://forklog.com/ "https://forklog.com/")
