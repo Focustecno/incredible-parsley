@@ -22,7 +22,7 @@ layout: null
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
         <category>{{ post.category | xml_escape }}</category>
-        <media:content url="{{ post.image }}" type="image/jpeg" medium="image" duration="10"> </media:content>
+        <media:content url="https://res.cloudinary.com/focustecno/image/upload/c_scale,q_50,w_835/v1629797207/Snimok-ekrana-2021-08-23-v-16.12.41-1024x801_ecq8ne.png" type="image/jpeg" medium="image" duration="10"> </media:content>
       </item>
     {% endfor %}
   </channel>
