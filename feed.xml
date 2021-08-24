@@ -13,7 +13,7 @@ layout: null
       <news:language>es</news:language>
     </news:publication>
     <news:publication_date>{{ site.time | date_to_rfc822 }}</news:publication_date>
-      <news:title>{{ site.title | xml_escape }}<</news:title>
+      <news:title>{{ site.title | xml_escape }}</news:title>
     </news:news>
   </url>
 </urlset>
