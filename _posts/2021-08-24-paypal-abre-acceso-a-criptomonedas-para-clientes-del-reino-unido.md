@@ -35,3 +35,5 @@ En mayo, da Ponte hizo saber que PayPal está desarrollando una función para re
 En julio, el CEO Otorgan Shulman hizo saber que PayPal lanzaría su propia billetera criptográfica en unos pocos meses.
 
 En el mismo mes, la firma elevó su límite de compras de activos digitales para consumidores estadounidenses a $ 100,000 por semana y hizo saber planes para ampliar el servicio al mercado del Reino Unificado.
+
+Fuente: [forklog](https://forklog.com/ "https://forklog.com/")
