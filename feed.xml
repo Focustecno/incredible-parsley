@@ -22,7 +22,7 @@ layout: null
         <category>{{ tag | xml_escape }}</category>
         {% endfor %}
         <category>{{ post.category | xml_escape }}</category>
-        <enclosure length="2000000" url="https://focustecno.com/{{ post.image }}" type="image/jpg"/>
+        <enclosure length="2000000" url="https://focustecno.com{{ post.image }}" type="image/jpg"/>
       </item>
     {% endfor %}
   </channel>
