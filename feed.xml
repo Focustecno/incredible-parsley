@@ -23,7 +23,7 @@ layout: null
         {% endfor %}
         <category>{{ post.category | xml_escape }}</category>
         <enclosure length="2000000" url="https://focustecno.com{{ post.image }}" type="image/jpg"/>
-        <dc:creator>{{ post.author }}</dc:creator>
+        <dc:creator>{{ author.name }}</dc:creator>
       </item>
     {% endfor %}
   </channel>
