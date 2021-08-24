@@ -25,6 +25,11 @@ layout: null
         <category>{{ post.category | xml_escape }}</category>
         <enclosure length="2000000" url="https://focustecno.com{{ post.image }}" type="image/jpg"/>
         <dc:creator>Focus Tecno</dc:creator>
+       <content:encoded>
+            {{post.title}}<br />
+            {{ post.overview | xml_escape}}<br />
+            {{ post.content }}
+        </content:encoded>
       </item>
     {% endfor %}
   </channel>
