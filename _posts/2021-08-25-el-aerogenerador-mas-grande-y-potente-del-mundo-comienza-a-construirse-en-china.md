@@ -1,5 +1,5 @@
 ---
-date: 2021-08-25 11:37:00 +0300
+date: 2021-08-25 11:59:00 +0300
 layout: post
 title: El aerogenerador más grande y potente del mundo comienza a construirse en China
 subtitle: La empresa china MingYang Smart Energy anunció la creación de la turbina
