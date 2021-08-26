@@ -46,7 +46,7 @@ baseurl: ''
 url: 'https://focustecno.com'
 google_analytics: G-M802EQZ8GG
 language: es
-categories_folder: ../
+categories_folder: ..
 sent_message_url: /contact/message-sent/
 markdown: kramdown
 highlighter: rouge
