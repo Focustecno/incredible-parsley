@@ -6,5 +6,4 @@ publish = "_site"
   from = "/category/crypto"
   to = "crypto"
   status = 301
-  force = false
-  query = {path = ":path"}
+
