@@ -17,7 +17,6 @@ tags:
 - bitcoin
 author: FocusTecno
 permalink: "/paypal-abre-acceso-a-criptomonedas-para-clientes-del-reino-unido/"
-description: Some description.
 redirection: <meta http-equiv="refresh" content="0;url=https://focustecno.com/crypto/paypal-abre-acceso-a-criptomonedas-para-clientes-del-reino-unido/"/>
      <link rel="canonical" href="https://focustecno.com/crypto/paypal-abre-acceso-a-criptomonedas-para-clientes-del-reino-unido/"/>
      <script type="text/javascript">
