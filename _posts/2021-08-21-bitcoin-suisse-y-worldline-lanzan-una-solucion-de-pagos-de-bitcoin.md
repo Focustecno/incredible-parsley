@@ -1,5 +1,5 @@
 ---
-date: 2021-08-21 03:00:00 +0000
+date: 2021-08-21T03:00:00.000+00:00
 layout: post
 title: Bitcoin Suisse y Worldline lanzan una solución de pagos de Bitcoin
 subtitle: 'La plataforma suiza de negocio de criptomonedas Bitcoin Suisse y la organización
@@ -10,7 +10,8 @@ description: 'La plataforma suiza de negocio de criptomonedas Bitcoin Suisse y l
   de pago de criptomonedas multicanal. '
 image: "/uploads/bitcoin-suisse-y-worldline-lanzan-una-solucion-de-pagos-de-bitcoin-focustecno.jpg"
 optimized_image: "/uploads/bitcoin-suisse-y-worldline-lanzan-una-solucion-de-pagos-de-bitcoin-focustecno-1.jpg"
-category: Cripto
+category:
+- Crypto
 tags:
 - blockchain
 - Crypto Payments
