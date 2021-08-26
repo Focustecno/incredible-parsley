@@ -14,7 +14,7 @@ menu:
   - title: Inicio
     url: /
   - title: Cripto
-    url: /category/cripto
+    url: /category/crypto
   - title: Apple
     url: /category/apple
   - title: Apps
@@ -46,7 +46,7 @@ baseurl: ''
 url: 'https://focustecno.com'
 google_analytics: G-M802EQZ8GG
 language: es
-categories_folder: 
+categories_folder: category
 sent_message_url: /contact/message-sent/
 markdown: kramdown
 highlighter: rouge
