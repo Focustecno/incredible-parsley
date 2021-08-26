@@ -6,10 +6,10 @@
 #=include social.yml
 
 # Posts Settings
-#=include posts.yml
+#= posts.yml
 
 # Advanced Settings
-#=include advanced.yml
+#= advanced.yml
 
 # Build settings
 markdown: kramdown
