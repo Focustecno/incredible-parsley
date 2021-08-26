@@ -15,7 +15,6 @@ tags:
 - nasa
 author: FocusTecno
 permalink: "/la-nasa-esta-reclutando-voluntarios-que-viviran-un-ano-en-condiciones-reales-de-marte/"
-description: Some description.
 redirection: <meta http-equiv="refresh" content="0;url=https://focustecno.com/space/la-nasa-esta-reclutando-voluntarios-que-viviran-un-ano-en-condiciones-reales-de-marte/"/>
      <link rel="canonical" href="https://focustecno.com/space/la-nasa-esta-reclutando-voluntarios-que-viviran-un-ano-en-condiciones-reales-de-marte/"/>
      <script type="text/javascript">
