@@ -1,8 +1,1 @@
-stackbitVersion: ~0.3.0
-ssgName: jekyll
-cmsName: netlifycms
-publishDir: _site
-dataDir: _data
-pagesDir: ''
-excludePages:
-  - /amp/*
+
