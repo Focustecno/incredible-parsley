@@ -4,5 +4,3 @@ cmsName: netlifycms
 publishDir: _site
 dataDir: _data
 pagesDir: ''
-models:
-  exclude: /amp/crypto/visa-compro-nft-cryptopunk-por-150-000-y-causo-revuelo-en-el-proyecto
