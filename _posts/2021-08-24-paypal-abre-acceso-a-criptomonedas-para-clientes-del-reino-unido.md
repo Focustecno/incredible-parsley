@@ -8,7 +8,8 @@ description: La empresa de pagos PayPal ha abierto la oportunidad para que los c
   del Reino Unido compren, almacenen y vendan criptomonedas.
 image: "/uploads/paypal_acepta-criptomonedas-focustecno-com.jpg"
 optimized_image: "/uploads/paypal_acepta-criptomonedas-focustecno-comw.jpg"
-category: []
+category:
+- Crypto
 tags:
 - 'criptomonedas '
 - 'PayPal '
