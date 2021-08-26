@@ -4,3 +4,5 @@ cmsName: netlifycms
 publishDir: _site
 dataDir: _data
 pagesDir: ''
+excludePages:
+  - amp/**/**
