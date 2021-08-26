@@ -1,3 +1,10 @@
 [build]
 command = "jekyll build"
 publish = "_site"
+
+[[redirects]]
+  from = "/category/crypto"
+  to = "crypto"
+  status = 301
+  force = false
+  query = {path = ":path"}
