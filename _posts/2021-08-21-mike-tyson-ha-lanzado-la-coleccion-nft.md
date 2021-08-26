@@ -1,5 +1,5 @@
 ---
-date: 2021-08-21 03:00:00 +0000
+date: 2021-08-21T03:00:00.000+00:00
 layout: post
 title: Mike Tyson ha lanzado la colección NFT
 subtitle: El famoso boxeador Mike Tyson ha colaborado con el artista Corey Van Liu
@@ -8,7 +8,7 @@ description: El famoso boxeador Mike Tyson ha colaborado con el artista Corey Va
   Liu para crear una colección de tokens no fungibles (NFT).
 image: "/uploads/mike_tyson_ha_lanzado_la_coleccion_nft_gdmoou.jpg"
 optimized_image: "/uploads/mike_tyson_ha_lanzado_la_coleccion_nft_gdmoou-1.jpg"
-category: Cripto
+category: []
 tags:
 - OpenSea
 - Mike Tyson

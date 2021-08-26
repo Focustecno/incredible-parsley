@@ -1,5 +1,5 @@
 ---
-date: 2021-08-22 03:00:00 +0000
+date: 2021-08-22T03:00:00.000+00:00
 layout: post
 title: Messi lanzó una colección de arte NFT con sus imágenes
 subtitle: Su propia colección de arte no fungibles creadas con su imagen por el diseñador
@@ -7,8 +7,8 @@ subtitle: Su propia colección de arte no fungibles creadas con su imagen por el
 description: Su propia colección de arte no fungibles creadas con su imagen por el
   diseñador digital BossLogic
 image: "/uploads/messi_nft_art_messirve_focustecno-com_xbbj52.jpg"
-optimized_image: "https://res.cloudinary.com/focustecno/image/upload/c_scale,q_10,w_197/v1629649205/messi_nft_gif_emdibg.gif"
-category: Cripto
+optimized_image: https://res.cloudinary.com/focustecno/image/upload/c_scale,q_10,w_197/v1629649205/messi_nft_gif_emdibg.gif
+category: []
 tags:
 - Messi
 - NFT

@@ -1,5 +1,5 @@
 ---
-date: 2021-08-24 03:00:00 +0000
+date: 2021-08-24T03:00:00.000+00:00
 layout: post
 title: PayPal abre acceso a criptomonedas para clientes del Reino Unido
 subtitle: La empresa de pagos PayPal ha abierto la oportunidad para que los clientes
@@ -8,7 +8,7 @@ description: La empresa de pagos PayPal ha abierto la oportunidad para que los c
   del Reino Unido compren, almacenen y vendan criptomonedas.
 image: "/uploads/paypal_acepta-criptomonedas-focustecno-com.jpg"
 optimized_image: "/uploads/paypal_acepta-criptomonedas-focustecno-comw.jpg"
-category: Cripto
+category: []
 tags:
 - 'criptomonedas '
 - 'PayPal '

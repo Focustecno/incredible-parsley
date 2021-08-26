@@ -6,7 +6,7 @@ subtitle: La DNG Team anuncia su propio token, ya se encuentra en fase de pre-ve
 description: La DNG Team anuncia su propio token, ya se encuentra en fase de preventa
 image: "/uploads/dng_team_crea_su_propia_criptomoneda_focustecno.jpg"
 optimized_image: "/uploads/dng_team_crea_su_propia_criptomoneda_g8tgs4-focsu-tecno.jpg"
-category: Cripto
+category: []
 tags:
 - token
 - criptomonedas
