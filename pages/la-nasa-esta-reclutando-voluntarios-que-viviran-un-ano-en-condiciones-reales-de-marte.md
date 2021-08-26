@@ -3,7 +3,7 @@ layout: page
 menu: false
 date: 2021-08-25 01:53:59
 title: "¿Quiénes somos?"
-permalink: "/about/"
+permalink: "/la-nasa-esta-reclutando-voluntarios-que-viviran-un-ano-en-condiciones-reales-de-marte/"
 description: Some description.
 
 ---
