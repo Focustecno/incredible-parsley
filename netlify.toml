@@ -3,7 +3,7 @@ command = "jekyll build"
 publish = "_site"
 
 [[redirects]]
-  from = "/category/crypto"
-  to = "crypto"
+  from = "/el-aerogenerador-mas-grande-y-potente-del-mundo-comienza-a-construirse-en-china/"
+  to = "crypto/el-aerogenerador-mas-grande-y-potente-del-mundo-comienza-a-construirse-en-china/"
   status = 301
 
