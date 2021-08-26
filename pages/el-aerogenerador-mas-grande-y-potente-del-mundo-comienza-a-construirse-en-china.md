@@ -16,7 +16,6 @@ tags:
 - MingYang Smart Energy
 author: FocusTecno
 permalink: "/el-aerogenerador-mas-grande-y-potente-del-mundo-comienza-a-construirse-en-china/"
-description: Some description.
 redirection: <meta http-equiv="refresh" content="0;url=https://focustecno.com/energ%C3%ADas/el-aerogenerador-mas-grande-y-potente-del-mundo-comienza-a-construirse-en-china/"/>
      <link rel="canonical" href="https://focustecno.com/energ%C3%ADas/el-aerogenerador-mas-grande-y-potente-del-mundo-comienza-a-construirse-en-china/"/>
      <script type="text/javascript">
