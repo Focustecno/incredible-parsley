@@ -1,5 +1,5 @@
 ---
-date: 2021-08-17 03:00:00 +0000
+date: 2021-08-17T03:00:00.000+00:00
 layout: post
 title: Disney patenta un sistema de distribución de películas basado en blockchain
   para detener a los piratas
@@ -13,7 +13,8 @@ description: Con un sistema de distribución basado en blockchain, Disney espera
   que los piratas intercepten las películas que se distribuyen en los cines
 image: "/uploads/disney_blockchain_focus_tecno_dwfnfk.jpg"
 optimized_image: "/uploads/disney_blockchain_focus_tecno_dwfnfk-1.jpg"
-category: Cripto
+category:
+- Crypto
 tags:
 - 'antipiratería '
 - Disney
