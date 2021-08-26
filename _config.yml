@@ -78,6 +78,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-paginate-content
+  - amp-jekyll
 exclude:
   - package.json
   - package-lock.json
