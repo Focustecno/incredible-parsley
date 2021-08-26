@@ -8,7 +8,8 @@ description: Si se aprueba el plan de ley, el territorio centroamericano se conv
   en el primero de todo el mundo en admitir legalmente la exitosa criptomoneda.
 image: "/uploads/el-salvador-planea-convertir-bitcoin-en-moneda-de-curso-legal-focustecno.jpg"
 optimized_image: "/uploads/mini-el-salvador-planea-convertir-bitcoin-en-moneda-de-curso-legal-focustecno.jpg"
-category: Cripto
+category:
+- Crypto
 tags:
 - criptomonedas
 - el salvador

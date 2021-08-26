@@ -1,5 +1,5 @@
 ---
-date: 2021-06-18 03:00:00 +0000
+date: 2021-06-18T03:00:00.000+00:00
 layout: post
 title: España planea emitir su propia criptomoneda
 subtitle: Las criptomonedas están impactando en el mundo financiero y los Estados
@@ -8,7 +8,8 @@ description: Las criptomonedas están impactando en el mundo financiero y los Es
   están empezando a mover fichas para recuperar posiciones, España no se quedará atrás.
 image: "/uploads/el_gobierno_de_espana_propone_crear_una_comision_para_estudiar_la_creacion_del_euro_digital_p1lt13.jpg"
 optimized_image: "/uploads/el_gobierno_de_espana_propone_crear_una_comision_para_estudiar_la_creacion_del_euro_digital_p1lt13-1.jpg"
-category: Cripto
+category:
+- Crypto
 tags:
 - bitcoin
 - Euro Digital
