@@ -22,9 +22,16 @@ layout: amp
 {{ page.date }} - {{ page.author }}
 </span>
 {{ content | markdownify }}
+  
+{% capture string_with_newlines %}
 
-{{ remove: "https://widget.stackbit.com/init.js" }}
+
+
+
 
   </body>
   
 </html>
+
+{% endcapture %}
+{{ string_with_newlines | remove: "https://widget.stackbit.com/init.js" }}
