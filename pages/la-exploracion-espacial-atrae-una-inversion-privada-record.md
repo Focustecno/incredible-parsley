@@ -16,7 +16,6 @@ tags:
 - 'Space '
 author: FocusTecno
 permalink: "/la-exploracion-espacial-atrae-una-inversion-privada-record/"
-description: Some description.
 redirection: <meta http-equiv="refresh" content="0;url=https://focustecno.com/inversiones/la-exploracion-espacial-atrae-una-inversion-privada-record/"/>
      <link rel="canonical" href="https://focustecno.com/inversiones/la-exploracion-espacial-atrae-una-inversion-privada-record/"/>
      <script type="text/javascript">
