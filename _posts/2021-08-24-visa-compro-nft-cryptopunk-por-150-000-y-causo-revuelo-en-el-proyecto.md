@@ -8,7 +8,7 @@ description: El 18 de agosto, el sistema de pago Visa compró un token no fungib
   (NFT) por 49.5 ETH, casi $ 150,000 al tipo de cambio en el momento de la venta.
 image: "/uploads/visa_nft_cryptopunk_focus_tecno_jkgc9c.jpg"
 optimized_image: "/uploads/visa_nft_cryptopunk_focus_tecno_jkgc9c-1.jpg"
-category: []
+category: crypto
 tags:
 - Visa
 - NFT
