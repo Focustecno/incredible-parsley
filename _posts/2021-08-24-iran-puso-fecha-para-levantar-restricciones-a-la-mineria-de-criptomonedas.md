@@ -1,5 +1,5 @@
 ---
-date: 2021-08-24 15:05:00 +0300
+date: 2021-08-24T15:05:00.000+03:00
 layout: post
 title: Irán puso fecha para levantar restricciones a la minería de criptomonedas
 subtitle: El 22 de septiembre de 2021, Irán levantará la prohibición de extracción
@@ -8,7 +8,8 @@ description: El 22 de septiembre de 2021, Irán levantará la prohibición de ex
   de activos digitales, introducida a fines de la primavera
 image: "/uploads/iran-bitcoin_iqlkuq.jpg"
 optimized_image: "/uploads/iran-bitcoin_iqlkuq-1.jpg"
-category: Cripto
+category:
+- Crypto
 tags:
 - criptomonedas
 - 'minería '

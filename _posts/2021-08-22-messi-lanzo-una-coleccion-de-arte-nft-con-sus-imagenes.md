@@ -8,7 +8,8 @@ description: Su propia colección de arte no fungibles creadas con su imagen por
   diseñador digital BossLogic
 image: "/uploads/messi_nft_art_messirve_focustecno-com_xbbj52.jpg"
 optimized_image: https://res.cloudinary.com/focustecno/image/upload/c_scale,q_10,w_197/v1629649205/messi_nft_gif_emdibg.gif
-category: []
+category:
+- Crypto
 tags:
 - Messi
 - NFT
