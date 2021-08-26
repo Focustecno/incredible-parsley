@@ -1,5 +1,5 @@
 ---
-date: 2021-08-24 14:00:00 +0300
+date: 2021-08-24T14:00:00.000+03:00
 layout: post
 title: El Salvador instalará 200 cajeros automáticos con opción de conversión de bitcoin
 subtitle: 'En El Salvador, las transacciones de Bitcoin estarán disponibles en 200
@@ -8,7 +8,8 @@ description: 'En El Salvador, las transacciones de Bitcoin estarán disponibles 
   200 cajeros automáticos y 50 sucursales bancarias. '
 image: "/uploads/salvador-bitcoin-chivo-cajeros-bukele-criptomoneda-230821-1_khrxyj.jpg"
 optimized_image: "/uploads/salvador-bitcoin-chivo-cajeros-bukele-criptomoneda-230821-1_khrxyj-1.jpg"
-category: Cripto
+category:
+- Crypto
 tags:
 - cajeros automáticos
 - 'Bitcoin '
