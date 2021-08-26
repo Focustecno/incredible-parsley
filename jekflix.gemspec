@@ -11,6 +11,8 @@ Gem::Specification.new do |spec|
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_(includes|layouts|sass)/|assets/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i) }
+  spec.files         = ['lib/amp-jekyll.rb', 'lib/jekyll/amp_generate.rb', 'lib/jekyll/amp_filter.rb']
+  spec.require_paths = ['lib']
 
   spec.add_runtime_dependency "rouge", "~> 3.3"
   spec.add_runtime_dependency "jekyll", "~> 3.8"
