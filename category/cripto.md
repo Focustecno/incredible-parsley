@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Cripto
-slug: Cripto
+slug: Crypto
 description: Cripto.
 ---
