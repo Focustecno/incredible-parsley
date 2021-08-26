@@ -50,7 +50,7 @@ categories_folder: category
 sent_message_url: /contact/message-sent/
 markdown: kramdown
 highlighter: rouge
-permalink: '/:title/'
+permalink: '/:categories/:title/'
 collections:
   authors:
     output: true
