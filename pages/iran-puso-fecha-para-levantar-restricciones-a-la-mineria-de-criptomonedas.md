@@ -17,7 +17,6 @@ tags:
 - iran
 author: FocusTecno
 permalink: "/iran-puso-fecha-para-levantar-restricciones-a-la-mineria-de-criptomonedas/"
-description: Some description.
 redirection: <meta http-equiv="refresh" content="0;url=https://focustecno.com/crypto/iran-puso-fecha-para-levantar-restricciones-a-la-mineria-de-criptomonedas/"/>
      <link rel="canonical" href="https://focustecno.com/crypto/iran-puso-fecha-para-levantar-restricciones-a-la-mineria-de-criptomonedas/"/>
      <script type="text/javascript">
