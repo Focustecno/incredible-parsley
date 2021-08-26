@@ -1,5 +1,5 @@
 ---
-date: 2021-08-24 12:35:00 +0300
+date: 2021-08-24T12:35:00.000+03:00
 layout: post
 title: Visa compró NFT CryptoPunk por $ 150,000 y causó revuelo en el proyecto
 subtitle: El 18 de agosto, el sistema de pago Visa compró un token no fungible (NFT)
@@ -8,7 +8,7 @@ description: El 18 de agosto, el sistema de pago Visa compró un token no fungib
   (NFT) por 49.5 ETH, casi $ 150,000 al tipo de cambio en el momento de la venta.
 image: "/uploads/visa_nft_cryptopunk_focus_tecno_jkgc9c.jpg"
 optimized_image: "/uploads/visa_nft_cryptopunk_focus_tecno_jkgc9c-1.jpg"
-category: Cripto
+category: []
 tags:
 - Visa
 - NFT
