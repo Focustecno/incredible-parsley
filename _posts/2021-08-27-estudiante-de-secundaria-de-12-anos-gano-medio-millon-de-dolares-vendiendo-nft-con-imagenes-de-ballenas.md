@@ -24,8 +24,6 @@ _Aprendí sobre NFT por primera vez a principios de este año. Esto me llamó la
 
 Ahmed estaba encantado con esta tecnología y decidió crear su propia colección de NFT, un tipo de tokens con un código único e irrepetible. Por lo tanto, NFT es una patente única para la propiedad de un archivo en particular.
 
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/WeirdWhales?src=hash&amp;ref_src=twsrc%5Etfw">#WeirdWhales</a> <a href="https://twitter.com/hashtag/NFT?src=hash&amp;ref_src=twsrc%5Etfw">#NFT</a> <a href="https://t.co/Pz4pEs03JC">pic.twitter.com/Pz4pEs03JC</a></p>&mdash; Benyamin | benoni.eth (@ObiWanBenoni) <a href="https://twitter.com/ObiWanBenoni/status/1417867633131757570?ref_src=twsrc%5Etfw">July 21, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 Según Ahmed, gastó solo $ 300 en el proyecto Weird Whales y aprendió a crear NFT a partir de tutoriales en línea y consejos de la comunidad sobre Discord. Después del lanzamiento en julio, toda la colección se agotó en solo nueve horas, y Ahmed ganó más de 80 Ethereum por día (~ $ 250 mil al 27 de agosto). No se especifica por qué la colección se agotó tan rápidamente.
 
 Después de eso, ganó otros 30 Ethereum (~ $ 90 mil) al revender sus obras; cada reventa le brinda al niño el 2.5% de las regalías. Ahmed no tiene una cuenta bancaria, por lo que guarda dinero en una billetera de criptomonedas, pero luego planea retirar Ethereum.
