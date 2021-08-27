@@ -54,11 +54,11 @@ html{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-size-adj
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
-                                        <amp-img src="{{ post.optimized_image }}" width="300" height="200" alt="Featured image" layout="responsive" >
+                                        <amp-img src="{{ post.optimized_image }}" width="300" height="200" alt="Featured image" layout="responsive" ></amp-img>
                                     {% elsif post.image %}
-                                        <amp-img src="{{ post.image }}" width="300" height="200" alt="Featured image" layout="responsive" >
+                                        <amp-img src="{{ post.image }}" width="300" height="200" alt="Featured image" layout="responsive" ></amp-img>
                                     {% else %}
-                                        <amp-img src="/assets/img/off.jpg" width="300" height="200" alt="Featured image" layout="responsive" >
+                                        <amp-img src="/assets/img/off.jpg" width="300" height="200" alt="Featured image" layout="responsive" ></amp-img>
                                     {% endif %}
                                     <h3>{{ post.title }}</h3>
                                 </a>
