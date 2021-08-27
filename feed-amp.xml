@@ -16,8 +16,8 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.subtitle }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}</guid>
+        <link>https://focustecno.com/amp/{{ post.url | prepend: site.url }}</link>
+        <guid isPermaLink="true">https://focustecno.com/amp/{{ post.url | prepend: site.url }}</guid>
         <category>{{ post.category | xml_escape }}</category>
         <enclosure length="2000000" url="https://focustecno.com{{ post.image }}" type="image/jpg"/>
         <dc:creator>Focus Tecno</dc:creator>
