@@ -37,9 +37,9 @@ html{ffont-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;line
     
 <p class="my4">{{ page.subtitle }}</p> 
     
-<amp-img src="{{ page.image }}" width="100%" height="auto" alt="Featured image" layout="responsive" class="my4"></amp-img>
+<amp-img src="{{ page.image }}" width="300" height="200" alt="Featured image" layout="responsive" class="my4"></amp-img>
     
-{{ content | markdownify | amp_images: false, 100%, auto }}
+{{ content | markdownify | amp_images: false, 300, 200 }}
     
        </article>
 
@@ -54,11 +54,11 @@ html{ffont-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;line
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.optimized_image %}
-                                        <amp-img src="{{ post.optimized_image }}" width="100%" height="auto" alt="Featured image" layout="responsive" >
+                                        <amp-img src="{{ post.optimized_image }}" width="300" height="200" alt="Featured image" layout="responsive" >
                                     {% elsif post.image %}
-                                        <amp-img src="{{ post.image }}" width="100%" height="auto" alt="Featured image" layout="responsive" >
+                                        <amp-img src="{{ post.image }}" width="300" height="200" alt="Featured image" layout="responsive" >
                                     {% else %}
-                                        <amp-img src="/assets/img/off.jpg" width="100%" height="auto" alt="Featured image" layout="responsive" >
+                                        <amp-img src="/assets/img/off.jpg" width="300" height="200" alt="Featured image" layout="responsive" >
                                     {% endif %}
                                     <h3>{{ post.title }}</h3>
                                 </a>
