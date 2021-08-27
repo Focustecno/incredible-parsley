@@ -20,7 +20,7 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
   <body>
     
   <header class="ampstart-headerbar fixed flex justify-start items-center top-0 left-0 right-0 pl2 pr4 ">
- <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger  pr2  ">s
+ <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger  pr2  ">{% include logo.html %}
     </div>
   </header>
     
@@ -35,7 +35,7 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
 {{ page.title }}
 </h1>
     
-<p class="my4">{{ page.subtitle }}</p> 
+<p>{{ page.subtitle }}</p> 
     
 <amp-img src="{{ page.image }}" width="200" height="150" alt="Featured image" layout="responsive"></amp-img>
     
