@@ -41,7 +41,7 @@ html{ffont-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;line
     
 <amp-img src="{{ page.image }}" width="600" height="450" alt="Featured image" layout="responsive" class="my4"></amp-img>
     
-{{ content | markdownify | amp_images: 300, 250 }}
+{{ content | markdownify | amp_images: false 300, 250 }}
     
        </article>
   </main>
