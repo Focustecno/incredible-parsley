@@ -1,8 +1,8 @@
 ---
 date: 2021-08-27 15:30:00 +0300
 layout: post
-title: El Ministerio de Industria Digital y "Укроборонпром" participarán en el desarrollo
-  de la inteligencia artificial en Ucrania.
+title: El Ministerio de Industria Digital y Укроборонпром participarán en el desarrollo
+  de la inteligencia artificial en Ucrania
 subtitle: El Ministerio de Transformación Digital de Ucrania y la empresa estatal
   Укроборонпром firmaron un memorando de intención para unir fuerzas para el desarrollo
   de la economía digital, la innovación y la inteligencia artificial en Ucrania.
