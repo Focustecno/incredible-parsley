@@ -36,6 +36,10 @@ html{font-family:sans-serif;line-height:1.15;-ms-text-size-adjust:100%;-webkit-t
 {{ page.title }}
 </h1>
     
+<p>{{ page.subtitle }}</p> 
+    
+<amp-img src="{{ page.image }}" width="600" height="450" alt="Featured image" layout="responsive"></amp-img>
+    
 {{ content | markdownify | amp_images: 300, 250 }}
     
        </article>
