@@ -16,12 +16,11 @@ layout: null
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.subtitle }}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>https://focustecno.com/amp/{{ post.url }}</link>
-        <guid isPermaLink="true">https://focustecno.com/amp/{{ post.url }}</guid>
+        <link>https://focustecno.com/amp{{ post.url }}</link>
+        <guid isPermaLink="true">https://focustecno.com/amp{{ post.url }}</guid>
         <category>{{ post.category | xml_escape }}</category>
         <enclosure length="2000000" url="https://focustecno.com{{ post.image }}" type="image/jpg"/>
         <dc:creator>Focus Tecno</dc:creator>
-        <content:encoded type="html" xml:base="{{ post.url | absolute_url | xml_escape }}">{{ post.content | strip | xml_escape }}</content:encoded>
       </item>
     {% endfor %}
   </channel>
