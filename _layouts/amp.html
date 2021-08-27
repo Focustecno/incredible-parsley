@@ -42,6 +42,32 @@ html{ffont-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;line
 {{ content | markdownify | amp_images: false, 300, 250 }}
     
        </article>
+
+    
+    
+    <!-- post relacionados -->
+                    <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
+                    <ul>
+                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
+                        {% assign shuffled_array = next_posts | shuffle %}
+                        {% for post in shuffled_array limit:6 %}
+                            <li>
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    {% if post.optimized_image %}
+                                        <amp-img src="{{ post.optimized_image }}" width="600" height="450" alt="Featured image" layout="responsive" >
+                                    {% elsif post.image %}
+                                        <amp-img src="{{ post.image }}" width="600" height="450" alt="Featured image" layout="responsive" >
+                                    {% else %}
+                                        <amp-img src="/assets/img/off.jpg" width="600" height="450" alt="Featured image" layout="responsive" >
+                                    {% endif %}
+                                    <h3>{{ post.title }}</h3>
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+<!-- post relacionados -->
+    
+    
   </main>
     
     
@@ -55,29 +81,6 @@ html{ffont-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;line
     </small>
   </footer>
   <!-- End Footer -->
-    
-    
-    <!-- post relacionados -->
-                    <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
-                    <ul>
-                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
-                        {% assign shuffled_array = next_posts | shuffle %}
-                        {% for post in shuffled_array limit:6 %}
-                            <li>
-                                <a href="{{ post.url | prepend: site.baseurl }}">
-                                    {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image }}">
-                                    {% elsif post.image %}
-                                        <img src="{{ post.image }}">
-                                    {% else %}
-                                        <img src="/assets/img/off.jpg">
-                                    {% endif %}
-                                    <h3>{{ post.title }}</h3>
-                                </a>
-                            </li>
-                        {% endfor %}
-                    </ul>
-<!-- post relacionados -->
 
 </body>
   
