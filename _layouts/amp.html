@@ -37,9 +37,9 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
     
 <p class="my4">{{ page.subtitle }}</p> 
     
-<amp-img src="{{ page.image }}" width="200" height="150" alt="Featured image" layout="responsive" class="my4"></amp-img>
+<amp-img src="{{ page.image }}" width="200" height="150" alt="Featured image" layout="responsive"></amp-img>
     
-{{ content | markdownify | amp_images: responsive, 200, 150 }}
+{{ content | markdownify | amp_images: false, 200, 150 }}
     
        </article>
 
