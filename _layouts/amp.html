@@ -50,6 +50,18 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
 <main id="content" role="main">
   <article class="px3">
     
+    <p class="post-info">
+                    {% if page.date %}
+                        <svg class="icon-calendar" id="date"><use xlink:href="#icon-calendar"></use></svg>
+                        <time class="date" datetime="{{ page.date | date_to_xmlschema }}">
+                            {% include date.html date=page.date %}
+                        </time>
+                    {% endif %}
+                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
+                    <span>{{ minutesText }}</span>
+                </p>
+    
+    
     <h1 class="my4">{{ page.title }}</h1>
     
     <p>{{ page.subtitle }}</p> 
