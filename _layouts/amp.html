@@ -21,12 +21,12 @@ layout: amp
     
 @media only screen and (max-width: 600px) {
 article{width: 100%;}
-sidebar{width: 100%;}
+.sidebar{width: 100%;}
 main{display: flex;flex-direction: column;}
 }
 @media only screen and (min-width: 600px) {
 article{width: 70%;}
-sidebar{width: 30%;}
+.sidebar{width: 30%;}
 main{display: flex;flex-direction: row;}
   
 }
@@ -53,7 +53,7 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
     <h1 class="my4">{{ page.title }}</h1>
     
     <p>{{ page.subtitle }}</p> 
-    
+    <br/> 
     <amp-img src="{{ page.image }}" width="200" height="150" alt="Featured image" layout="responsive"></amp-img>
     
     <br/>   
@@ -74,7 +74,7 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
     
     
     
-  <sidebar> 
+  <div class="sidebar"> 
   <!-- post relacionados -->                
   <ul>
     <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
@@ -97,7 +97,7 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
   </ul>
   <!-- post relacionados -->
  
-  </sidebar> 
+  </div> 
     
 </main>
     
