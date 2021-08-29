@@ -1,5 +1,3 @@
-
-
 ---
 date: 2021-08-29 20:20:00 +0300
 layout: post
@@ -14,7 +12,6 @@ tags:
 - Fortnite impostores
 - Mike Lowrey
 author: FocusTecno
-
 ---
 Hace solo unos años, Super Smash Bros. era probablemente el videojuego con los crossovers más ambiciosos. Sin embargo Fortnite hace tiempo que empujó a la celebración de la paliza de Nintendo de este trono. Luego de varios otros personajes de ficción e individuos vivas, Will Smith ahora entra en Battle Royale en su papel de Mike Lowrey. 
 
