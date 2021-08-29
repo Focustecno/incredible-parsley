@@ -22,14 +22,14 @@ No fue el primero y de ni una forma va a ser el último: Will Smith ahora está 
 A diferencia de la presente campaña sobre el superhéroe alérgico a la kriptonita, Will Smith no posee ni una tarea particular para desbloquear su piel o los equipamientos apropiados. Sin embargo, debes situar una cantidad de V-Bucks, la moneda del juego, sobre la mesa para el muchacho malo Mike Lowrey con su atuendo fácil empero elegante. 
 
 Si desea lanzarse a la refriega con el detective de Southbeach, 1500 V-Bucks se tienen que a la dermis, que viene con una bolsa de detective en la espalda. Por otros 500 V-Bucks obtienes sus picos dobles "cuchillo de estímulo caliente". Si no desea desentenderse de uno u otro, puede obtener el "juego de espuelas caliente" rápido, pues se integran tanto la dermis como los picos dobles.
-
+<br/>
 <amp-youtube
 	width="480"
 	height="270"
 	layout="responsive"
 	data-videoid="xODBde7xW4w">
 </amp-youtube>
-
+<br/>
 El elaborado de que Will Smith se junte a los demás personajes de Fortnite se filtró hace cualquier tiempo, sin embargo varios hubieran deseado un aspecto de "Hombre de Negro" en vez de Mike Lowrey de Bad Boys. Independientemente de aquello, Will Smith está realmente bien golpeado, la dermis le da crédito al actor.
 
 Con la colorida gama de personajes, pronosticar el próximo personaje nuevo en Fortnite es tan realista como triunfar la rifa. Hasta que Epic revele qué estrellas aún poseen en la tubería de radio y televisión, los jugadores de Fortnite tienen la posibilidad de acusarse entre sí de traición en el nuevo modo impostor y intentar de exponer a los demás jugadores como impostores. 
