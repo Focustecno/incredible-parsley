@@ -71,7 +71,10 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
     
     {{ content | markdownify | amp_images: false, 200, 150 }}
     
+    <br/>
+    <p> {{ author.display_name }}</p>
     <br/> 
+    
     <amp-ad width="100vw" height="320" type="adsense" data-ad-client="ca-pub-4858467408884489" data-ad-slot="8343944865" data-auto-format="rspv" data-full-width="">
       <div overflow=""></div>
     </amp-ad>
