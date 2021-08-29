@@ -37,7 +37,7 @@ article{width: 70%;}
 main{display: flex;flex-direction: row;}
   
 }
-    
+      .data-top{width:100%;max-width:1200px;margin:auto;padding-top:60px}
 *{scrollbar-width:10px;scrollbar-color:#ccc #fff0}::-webkit-scrollbar{width:10px}::-webkit-scrollbar-track{background:#fff0}::-webkit-scrollbar-thumb{background-color:#ccc;border-radius:10px;border:3px solid #fff1}
     
     
@@ -110,6 +110,8 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
       
       
 <br/> 
+      
+ <div class="data-top">  
     <p class="post-info">
     {% include date.html date=page.date %}
     </p>
@@ -118,7 +120,8 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
     <h1 class="">{{ page.title }}</h1>
     <br/> 
     
-    <p>{{ page.subtitle }}</p>    
+    <p>{{ page.subtitle }}</p> 
+  </div>     
     
 <main id="content" role="main">
 
