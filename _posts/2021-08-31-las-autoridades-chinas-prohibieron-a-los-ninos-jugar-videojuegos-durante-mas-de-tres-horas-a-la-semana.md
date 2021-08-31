@@ -5,7 +5,7 @@ title: Las autoridades chinas prohibieron a los niños jugar videojuegos durante
 subtitle: Las empresas solo podrán permitir el juego entre las 20.00 y las 21.00 los viernes, sábados, domingos y días festivos.
 description: Las empresas solo podrán permitir el juego entre las 20.00 y las 21.00 los viernes, sábados, domingos y días festivos.
 image: "https://res.cloudinary.com/focustecno/image/upload/c_scale,q_44,w_1174/v1630388718/las-autoridades-chinas-prohibieron-a-los-ninos-jugar-videojuegos-durante-mas-de-tres-horas-a-la-semana-focustecno-com.jpg"
-optimized_image: "hhttps://res.cloudinary.com/focustecno/image/upload/c_scale,q_44,w_454/v1630388718/las-autoridades-chinas-prohibieron-a-los-ninos-jugar-videojuegos-durante-mas-de-tres-horas-a-la-semana-focustecno-com.jpg"
+optimized_image: "https://res.cloudinary.com/focustecno/image/upload/c_scale,q_44,w_454/v1630388718/las-autoridades-chinas-prohibieron-a-los-ninos-jugar-videojuegos-durante-mas-de-tres-horas-a-la-semana-focustecno-com.jpg"
 category: Gaming
 tags:
 - China
