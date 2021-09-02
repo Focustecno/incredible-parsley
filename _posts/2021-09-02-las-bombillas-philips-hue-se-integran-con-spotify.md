@@ -1,5 +1,5 @@
 ---
-date: 2021-09-01 00:30:00 +0300
+date: 2021-09-02 09:50:00 +0300
 layout: post
 title: Las bombillas Philips Hue se integran con Spotify
 subtitle: A partir de hoy, las lámparas inteligentes Philips Hue se han integrado estrechamente con el servicio de transmisión de música Spotify. 
