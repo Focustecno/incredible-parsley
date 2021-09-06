@@ -5,7 +5,7 @@ title: El servicio de taxis chino DiDi vendió su participación en su rival Bol
 subtitle: DiDi planea expandir su presencia en Europa. 
 description: DiDi planea expandir su presencia en Europa. 
 image: "https://res.cloudinary.com/focustecno/image/upload/q_62/v1630909886/el-servicio-de-taxis-chino-didi-vendio-su-participacion-en-su-rival-bolt-por-500-millones-de-euros-focustecno-com.jpg"
-optimized_image: "focustecno/image/upload/c_scale,q_62,w_432/v1630909886/el-servicio-de-taxis-chino-didi-vendio-su-participacion-en-su-rival-bolt-por-500-millones-de-euros-focustecno-com.jpg"
+optimized_image: "https://res.cloudinary.com/focustecno/image/upload/c_scale,q_62,w_432/v1630909886/el-servicio-de-taxis-chino-didi-vendio-su-participacion-en-su-rival-bolt-por-500-millones-de-euros-focustecno-com.jpg"
 category: Empresas
 tags:
 - Didi
