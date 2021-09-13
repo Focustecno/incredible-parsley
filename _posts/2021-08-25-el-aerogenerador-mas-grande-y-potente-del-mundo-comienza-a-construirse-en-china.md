@@ -24,4 +24,4 @@ Con esto en mente, los ingenieros de MingYang Smart Energy diseñaron un coloso 
 
 La empresa aclaró que el prototipo se construirá a fines de 2022, y a partir de 2024 el modelo entrará en producción y comenzará a venderse en el mercado. Se puede montar una enorme turbina eólica tanto en el lecho marino como en una plataforma flotante, casi en cualquier parte del océano mundial. Los analistas señalan que si la construcción de aerogeneradores cada vez más grandes se convierte en una tendencia, para 2050, el precio de su producción de energía disminuirá en un 37-49%, y esta dirección se volverá muy competitiva.
 
-![](/uploads/myse-16-0-242.jpg)
+![turbina más grande del mundo turbinas más grande del mundo turbina eólica aerogeneradores verticales aerogenerador altura el molino más grande del mundo aerogeneradores en alemania aerogenerador precio](/uploads/myse-16-0-242.jpg)
