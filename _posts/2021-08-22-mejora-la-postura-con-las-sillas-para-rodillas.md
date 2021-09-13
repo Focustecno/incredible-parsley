@@ -37,3 +37,5 @@ Esta es una silla que puede parecer muy extraña e inusual en apariencia. No tie
 * Marco: es mejor elegir un marco de metal, ya que es más fuerte. Sin embargo, muchos compradores afirman que la madera parece más moderna y elegante.
 
 Según los ortopedistas, las sillas para rodillas son la mejor solución para las personas que pasan la mayor parte del tiempo sentadas en una mesa. El riesgo de curvatura de la columna vertebral disminuye, la respiración profunda está asegurada debido a un pecho enderezado, la digestión mejora, la hinchazón de las piernas desaparece, la probabilidad de estancamiento en la columna cervical disminuye y los dolores de cabeza desaparecen por completo.
+
+![ silla de cajero sodimac sillas de cajero altas sillas para cajeros de supermercados silla cajero homecenter silla cajera ergonomica silla cajero mercadolibre sillas de oficina cajero ofisillas](https://res.cloudinary.com/focustecno/image/upload/v1631537242/silla-de-rodilla-focus-tecno.jpg)
