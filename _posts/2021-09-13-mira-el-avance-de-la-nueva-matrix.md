@@ -36,7 +36,7 @@ El primer tráiler se enseñó en CinemaCon el 24 de agosto y se arrojó online 
 Si te lo perdiste arriba, puedes verlo nuevamente en seguida y hemos profundizado en los múltiples misterios del desarrollo aquí para ti. No tenemos la posibilidad de mencionar que tengamos cada una de (o algunas) las respuestas, sin embargo lo hemos intentado. 
 
 
-{% if page.url == '{{ page.id | prepend: '/amp' | prepend: site.baseurl | prepend: site.url }}' %}
+{% if page.url == 'https://focustecno.com/amp/tv/mira-el-avance-de-la-nueva-matrix/' %}
 <br/>
 <amp-youtube
 	width="480"
@@ -47,7 +47,7 @@ Si te lo perdiste arriba, puedes verlo nuevamente en seguida y hemos profundizad
 <br/>
 {% endif %}
 
-{% if page.url == '{{ page.canonical_url | prepend: site.baseurl | prepend: site.url }}' %}
+{% if page.url == 'https://focustecno.com/tv/mira-el-avance-de-la-nueva-matrix' %}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ix7TUGVYIo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {% endif %}
 <br/>
