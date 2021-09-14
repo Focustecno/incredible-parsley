@@ -7,7 +7,7 @@ description: The Matrix 4 está a solo unos meses de su lanzamiento y finalmente
 image: "https://res.cloudinary.com/focustecno/image/upload/c_fit,q_42,w_1158/v1631498329/matrix-resurrectians-trailer-focustecno-com.png"
 optimized_image: "https://res.cloudinary.com/focustecno/image/upload/c_fit,q_42,w_565/v1631498329/matrix-resurrectians-trailer-focustecno-com.png"
 altp: the matrix resurrections morpheus the matrix resurrections website the matrix resurrections trailer matrix resurrections official website the matrix resurrections fecha de estreno matrix 4 poster oficial matrix 4 imdb matrix resurrection web
-category: Tv
+category: tv
 tags:
 - Matrix 4
 - trailer
