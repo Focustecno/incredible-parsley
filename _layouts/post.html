@@ -179,7 +179,7 @@
 			
 			
 <!-- post relacionados -->
-                    <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
+                    <h2 style="padding: .625rem 0;">{{ site.translations.text.see_also | default: "Ver también" }}</h2>
                     <ul>
 
                        {% for post in site.categories[page.category] limit: 5 %}
