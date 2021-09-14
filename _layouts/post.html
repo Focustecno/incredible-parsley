@@ -104,7 +104,7 @@
                        {% for post in site.categories[page.category] limit: 4 %}
                             <li style="list-style:none">
                                 <a href="{{ post.url | prepend: site.baseurl }}">
-                                    <h4 style="padding-top: 0;">{{ post.title }}</h4>
+                                    <h4 style="padding-top: 0;line-height: 1.2;">{{ post.title }}</h4>
                                 </a>
                             </li>
                         {% endfor %}
