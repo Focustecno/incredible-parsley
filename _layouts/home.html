@@ -57,19 +57,19 @@ layout: main
                     <a class="cover" href="{{ post.url | prepend: site.baseurl }}">
                         {% include loader.html %}
                         {% if post.optimized_image %}
-                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image }}" class="preload" alt="{{ page.altp }}">
+                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.optimized_image }}" class="preload" alt="{{ post.altp }}">
                             <noscript>
-                                <img src="{{ post.optimized_image }}" width="100%"  alt="{{ page.altp }}">
+                                <img src="{{ post.optimized_image }}" width="100%"  alt="{{ post.altp }}">
                             </noscript>
                         {% elsif post.image %}
-                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.image }}" class="preload" alt="{{ page.altp }}">
+                            <img src="/assets/img/placeholder.png" width="100%" data-url="{{ post.image }}" class="preload" alt="{{ post.altp }}">
                             <noscript>
-                                <img src="{{ post.image }}" width="100%"  alt="{{ page.altp }}">
+                                <img src="{{ post.image }}" width="100%"  alt="{{ post.altp }}">
                             </noscript>
                         {% else %}
-                            <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload" alt="{{ page.altp }}">
+                            <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload" alt="{{ post.altp }}">
                             <noscript>
-                                <img src="/assets/img/off.jpg" width="100%"  alt="{{ page.altp }}">
+                                <img src="/assets/img/off.jpg" width="100%"  alt="{{ post.altp }}">
                             </noscript>
                         {% endif %}
                         {% include new-post-tag.html date=post.date %}
