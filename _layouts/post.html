@@ -179,7 +179,7 @@
 			
 			
 <!-- post relacionados -->
-                    <h2 style="padding: .625rem 0;">{{ site.translations.text.see_also | default: "Ver también" }}</h2>
+                    <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
                     <ul>
 
                        {% for post in site.categories[page.category] limit: 5 %}
@@ -254,7 +254,7 @@
             
 	    
 	<!-- post relacionados -->
-	     <h2>{{ site.translations.text.see_also | default: "Seguir leyendo" }}</h2>
+	     <h2 style="padding: .625rem 0;">{{ site.translations.text.see_also | default: "Seguir leyendo" }}</h2>
 	     <div class="img-relb dragscroll" style="overflow-y: hidden;
     overflow-x: scroll;
     white-space: nowrap;
