@@ -6,7 +6,7 @@ subtitle: El cofundador de Apple, Steve Wozniak, anunció la creación de una co
 description: El cofundador de Apple, Steve Wozniak, anunció la creación de una compañía espacial privada llamada Privateer Space. Desafortunadamente, aparte de su promesa de hacer que la organización sea distinto de las otras, Wozniak no reveló ningún detalle sobre la nueva organización.
 image: "https://res.cloudinary.com/focustecno/image/upload/q_53/v1631626127/steve-wozniak-el-cofundador-de-apple-fundo-su-propia-empresa-espacial-focustecno.jpg"
 optimized_image: "https://res.cloudinary.com/focustecno/image/upload/c_scale,q_53,w_540/v1631626127/steve-wozniak-el-cofundador-de-apple-fundo-su-propia-empresa-espacial-focustecno.jpg"
-altp: 'steve wozniak janet hill'|'steve wozniak biografía'|'linkedin steve wozniak'|'steve wozniak net worth'|'steve jobs y steve wozniak'|'steve wozniak instagram'|'steve wozniak contact'|'steve wozniak twitter'|'space center'|'spacex'|'space game'|'space planets'|'spacex launch'|'astronomy space'|'space look'|'space news'|'elon musk'|'agencia espacial rusa'|'agencia espacial china'|'spacex misión y visión'|'agencia espacial mexicana'|'starship spacex'
+altp: steve wozniak janet hill|'steve wozniak biografía'|'linkedin steve wozniak'|'steve wozniak net worth'|'steve jobs y steve wozniak'|'steve wozniak instagram'|'steve wozniak contact'|'steve wozniak twitter'|'space center'|'spacex'|'space game'|'space planets'|'spacex launch'|'astronomy space'|'space look'|'space news'|'elon musk'|'agencia espacial rusa'|'agencia espacial china'|'spacex misión y visión'|'agencia espacial mexicana'| starship spacex
 category: Space
 tags:
 - steve wozniak
