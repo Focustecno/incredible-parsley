@@ -95,6 +95,22 @@
                         </div>
 		 <br>
 		    
+		    
+		 <!-- post relacionados -->
+                    <h3>{{ site.translations.text.see_also | default: "También te puede interesar" }}</h3>
+                    <ul>
+
+                       {% for post in site.categories[page.category] limit: 4 %}
+                            <li>
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    <h4>{{ post.title }}</h4>
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+		<!-- post relacionados -->
+		    
+		 <br> 
 		 {% include author.html %}
 		 <br>  
 		<!-- Begin Mailchimp Signup Form -->
