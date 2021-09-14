@@ -164,8 +164,7 @@
 <!-- post relacionados -->
                     <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
                     <ul>
-                        {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
-                        {% assign shuffled_array = next_posts | shuffle %}
+
                        {% for post in site.categories[category] limit: 5 %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
