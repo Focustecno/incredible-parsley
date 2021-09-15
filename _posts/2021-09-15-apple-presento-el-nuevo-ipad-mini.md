@@ -2,8 +2,8 @@
 date: 2021-09-15 14:30:00 +0300
 layout: post
 title: Apple presentó el nuevo iPad mini
-subtitle: Apple presentó el iPad mini 6. Como era de esperar, la tableta recibió un nuevo diseño, que no es diferente del iPad Air 4. Las diferencias radican en los colores: la novedad estará disponible en oro, rosa, morado y gris.
-description: Apple presentó el iPad mini 6. Como era de esperar, la tableta recibió un nuevo diseño, que no es diferente del iPad Air 4. Las diferencias radican en los colores: la novedad estará disponible en oro, rosa, morado y gris.
+subtitle: Apple presentó el iPad mini 6. Como era de esperar, la tableta recibió un nuevo diseño, que no es diferente del iPad Air 4. Las diferencias radican en los colores la novedad estará disponible en oro, rosa, morado y gris.
+description: Apple presentó el iPad mini 6. Como era de esperar, la tableta recibió un nuevo diseño, que no es diferente del iPad Air 4. Las diferencias radican en los colores la novedad estará disponible en oro, rosa, morado y gris.
 image: "https://res.cloudinary.com/focustecno/image/upload/c_scale,w_1169/v1631705535/ipad-mini-6_r8zgfk.jpg"
 optimized_image: "https://res.cloudinary.com/focustecno/image/upload/c_scale,w_414/v1631705535/ipad-mini-6_r8zgfk.jpg"
 altp: ipad mini price|ipad mini 5|ipad mini 1|ipad mini 4|ipad mini 2|ipad mini 2020|ipad mini 6|ipad mini 8|apple usa|apple id|apple watch|apple store|apple méxico|apple icloud|apple colombia|apple id login|apple ipad mini|apple ipad pro|apple ipad 7th generation|apple ipad price|ipad air|ipad pro 2020|apple ipad 128gb wifi|apple ipad 8th generation
