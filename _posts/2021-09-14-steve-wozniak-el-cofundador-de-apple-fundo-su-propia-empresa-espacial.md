@@ -28,6 +28,10 @@ También apareció en YouTube un video separado dedicado al espacio privado. Afi
 </amp-youtube>
 <br/>
 
+{% if page.url == 'https://focustecno.com/space/steve-wozniak-el-cofundador-de-apple-fundo-su-propia-empresa-espacial/' %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3a7A1w1C2TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% endif %}
+
 Esta no es la primera experiencia de colaboración entre dos ex colegas de "Block". En 2002, Wozniak y Fielding trabajaron en etiquetas GPS para crear las ruedas de Jesús. Más tarde, Wozniak formó parte de la junta directiva de Ripcard Networks, una empresa de puesta en marcha robótica fundada en 2006.
 
 PrivateSpace comentó que esta semana habrá más datos de inicio disponibles en la Patterns Technology Conference en Maui, Hawaii.
