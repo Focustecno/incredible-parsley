@@ -19,6 +19,7 @@ Steve Wozniak fundó la agencia espacial Private Space. El cofundador de Apple l
 
 También apareció en YouTube un video separado dedicado al espacio privado. Afirma que la organización fue fundada por el ex ingeniero de Apple Alex Fielding.
 
+{% if page.layout == 'amp' %}
 <br/>
 <amp-youtube
 	width="480"
@@ -27,9 +28,12 @@ También apareció en YouTube un video separado dedicado al espacio privado. Afi
 	data-videoid="3a7A1w1C2TE">
 </amp-youtube>
 <br/>
+{% endif %}
 
 {% if page.layout == 'post' %}
+<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3a7A1w1C2TE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
 {% endif %}
 
 Esta no es la primera experiencia de colaboración entre dos ex colegas de "Block". En 2002, Wozniak y Fielding trabajaron en etiquetas GPS para crear las ruedas de Jesús. Más tarde, Wozniak formó parte de la junta directiva de Ripcard Networks, una empresa de puesta en marcha robótica fundada en 2006.
