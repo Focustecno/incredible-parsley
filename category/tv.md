@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: page
 title: Tv
 slug: Tv
 description: En esta sección encontraras novedades de películas, series y programaciones de los mejores servicios de streaming como Netflix, Disney+, Amazon Prime, Hulu, etc. 
