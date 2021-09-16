@@ -38,7 +38,16 @@ En la aplicación Philips Hue, los usuarios pueden personalizar su experiencia c
 
 Sincronizar Philips Hue con Spotify es completamente gratuito para los usuarios. Para su funcionamiento es necesario contar con un hub Hue Bridge y modelos de lámpara compatibles que puedan cambiar de color. En la aplicación Philips Hue, vaya a la pestaña Explorar, toque la tarjeta Philips Hue + Spotify, luego siga las instrucciones en pantalla para configurar la sincronización.
 
-Fuente: [Macrumors](https://www.macrumors.com/2021/09/01/philips-hue-lights-spotify-integration/ "https://www.macrumors.com/2021/09/01/philips-hue-lights-spotify-integration/")
+## ¿Qué es Philips Hue?
+
+Philips Hue es el sistema de iluminación inteligente que te posibilita mantener el control de la luz de forma fácil. Usa la domótica aplicada al control y automatización de las lámparas y luminarias Philips Hue para cambiar tu hogar inteligente.
+
+Philips Hue funciona con una extensa variedad de dispositivos capaces diferentes. Una vez que el producto es un Friend of Hue, sencillamente funcionarán ligados en tu vivienda. Llena de vida tu hogar inteligente con la luz más conectada de todo el mundo.
+
+Philips Hue transforma tu día a día. Podés despertarte delicadamente por la mañana, energizarte para el día siguiente e inclusive darte una cálida bienvenida una vez que vos llegues a vivienda. Philips Hue transforma tu vivienda en un hogar inteligente. 
+
+![philips hue play hdmi,hdmi sync box philips,philips hue homepod,philips hue razer,hue box,philips hue homekit,hue box hdmi,shape light hue,appear hue,razer hue,apple homekit philips hue,hue sync box philips,ok google philips hue,hue light philips,philips hue go homekit,philips u,meethue hue sync,philips home kit,philips hdmi box,razer philips hue,hue sync philips,philips box sync,hue razer,hue exterior,hue dimmer,hue usa,hdmi sync,google assistant philips hue,hue app philips,philips hue wall,philips hue play hdmi sync,philips hue siri,sync box philips,google assistant hue,philips hue google assistant,hue homekit,philips hue alexa,philips hue dim switch,hdmi sync box philips hue,philips hue switch dimmer,philips tv hue sync,philips hue apple,meethue bluetooth,siri hue,hue sync hdmi,hue sync pc,philips tv hue bridge,hue sensor,hue play hdmi](https://res.cloudinary.com/focustecno/image/upload/c_scale,w_739/v1631791795/que-es-philips-hue-focus-tecno-com.jpg)
+
 
 
 
