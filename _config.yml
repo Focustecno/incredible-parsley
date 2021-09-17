@@ -29,10 +29,6 @@ menu:
     url: /category/smartphone/
   - title: Inversiones
     url: /category/inversiones/
-  - title: Group 2
-    subfolderitems:
-      - page: Piece 1
-        url: /piece1.html
 ampdir: amp
 email: contact@focustecno.com
 disqus_username: focustecno
