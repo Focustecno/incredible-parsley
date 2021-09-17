@@ -2,31 +2,7 @@
   {% for item in site.menu %}
     {% if item.title and item.url %}
       <li>
-        <a style="font-weight: bold;" href="https://focustecno.com/">Inicio</a>
-      </li>
-      <li>
-        <a style="font-weight: bold;" href="https://focustecno.com/crypto/">Crypto</a>
-      </li>
-      <li>
-        <a style="font-weight: bold;" href="https://focustecno.com/apple/">Apple</a>
-      </li>
-      <li>
-        <a style="font-weight: bold;" href="https://focustecno.com/apps/">Apps</a>
-      </li>
-      <li>
-        <a style="font-weight: bold;" href="https://focustecno.com/gaming/">Gaming</a>
-      </li>
-      <li>
-        <a style="font-weight: bold;" href="https://focustecno.com/energ%C3%ADas/">Energías</a>
-      </li>
-       <li>
-        <a style="font-weight: bold;" href="https://focustecno.com/ciencia/">Ciencia</a>
-      </li>
-       <li>
-        <a style="font-weight: bold;" href="https://focustecno.com/smartphone/">Smartphone</a>
-      </li>
-       <li>
-        <a style="font-weight: bold;" href="https://focustecno.com/inversiones/">Inversiones</a>
+        <a style="font-weight: bold;" href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       </li>
     {% endif %}
   {% endfor %}
