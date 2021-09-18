@@ -9,8 +9,7 @@ description: El famoso boxeador Mike Tyson ha colaborado con el artista Corey Va
 image: "/uploads/mike_tyson_ha_lanzado_la_coleccion_nft_gdmoou.jpg"
 optimized_image: "/uploads/mike_tyson_ha_lanzado_la_coleccion_nft_gdmoou-1.jpg"
 altp: mike tyson nft wallet,the mike tyson nft collection by cory van lew,mike tyson draw,mike tyson cap,mike tyson mysteries merch,mike tyson fashion,where is mike tyson now,mike tyson management,mike tyson instagram,mike tyson twitter,mike tyson nft wallet,mike tyson management,mike tyson contact,mike tyson latest,mike tyson net worth,mike tyson miguel leon tyson,mike tyson record,mike tyson instagram,mike tyson vs holyfield,mike tyson oreja,mike tyson 2021,mike tyson edad
-category:
-- Crypto
+category: Crypto
 tags:
 - OpenSea
 - Mike Tyson
