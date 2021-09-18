@@ -7,7 +7,7 @@ description: Esta semana ocurrió un acontecimiento histórico para SpaceX Elon 
 image: "https://res.cloudinary.com/focustecno/image/upload/v1631986768/turismo%20espacial%20de%20spacex.png"
 optimized_image: "https://res.cloudinary.com/focustecno/image/upload/c_scale,w_639/v1631986768/turismo%20espacial%20de%20spacex.png"
 altp: spacex falcon 9 starship sn9 internet satelital de tesla internet satelital starlink internet satelital tesla starlink internet satelital spacex internet satelital xspace internet precio internet starlink virgin espacio viaje al espacio precio viaje espacial primer viaje espacial nasa boletos a marte
-tags:
+tags: Space
 - virgin espacio
 - viaje al espacio precio
 - primer viaje espacial
