@@ -21,4 +21,4 @@ Según Benjamin Reed, director de control de misiones de Crew Dragon, SpaceX va 
 
 Según Reed, la lista de candidatos para vuelos al Crew Dragon es cada vez más vasta. A comienzos del próximo año, Axiom Space usará la nave espacial de SpaceX para mandar una tripulación a la ISS, después SpaceX llevará a cabo numerosas misiones de la NASA, sin embargo " además poseemos cada vez más misiones comerciales con astronautas, y estamos ansiosos por realizarlas ".
 
-El propósito a extenso plazo de SpaceX, comentó Reed, es " mandar millones de individuos al espacio " y " volar a grado de aerolínea ". 
+El propósito a extenso plazo de SpaceX, comentó Reed, es " mandar millones de individuos al espacio " y " volar a grado de aerolínea ".
