@@ -1,7 +1,10 @@
-
-
+<script>
+var cerraranuncio = anuncio => {
+  document.getElementById(anuncio).style.display = "none";
+}
+</script>
 <!-- banner ads pc fix -->
-<div class="ads-pc" style="position:fixed;z-index:999999999;bottom:0;width:100%;left:0;text-align: center;">
+<div class="ads-pc anuncio" style="position:fixed;z-index:999999999;bottom:0;width:100%;left:0;text-align: center;">
 	
 <div class="" style="width:728px;margin: auto;">
     <p style="
@@ -14,7 +17,7 @@
     border-left: 1px solid #000;
     border-right: 1px solid #000;
     border-top: 1px solid #000;
-">x</p>
+" onclick="cerraranuncio('primeranuncio')">x</p>
 </div>
 	
 	<div class="ads-box" style="width:728px;margin: auto;-webkit-box-shadow: 0px -2px 8px 0px rgba(34, 60, 80, 0.2);
