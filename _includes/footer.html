@@ -1,6 +1,16 @@
 <script>
 function myFunction() {
-    var x = document.getElementById("myDIV","myDIV2");
+    var x = document.getElementById("myDIV");
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
+<script>
+function myFunction2() {
+    var x = document.getElementById("myDIV2");
     if (x.style.display === "none") {
         x.style.display = "block";
     } else {
@@ -52,7 +62,7 @@ box-shadow: 0px -2px 8px 0px rgba(34, 60, 80, 0.2)">
     border-left: 1px solid #000;
     border-right: 1px solid #000;
     border-top: 1px solid #000;
-" onclick="myFunction()">x</p>
+" onclick="myFunction2()">x</p>
 </div>
 	<div class="ads-box" style="width:100%;margin: auto;-webkit-box-shadow: 0px -2px 8px 0px rgba(34, 60, 80, 0.2);
 -moz-box-shadow: 0px -2px 8px 0px rgba(34, 60, 80, 0.2);
