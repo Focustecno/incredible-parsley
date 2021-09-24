@@ -1,6 +1,11 @@
 <script>
 var cerraranuncio = anuncio => {
   document.getElementById(anuncio).style.display = "none";
+
+  setTimeout(() => {
+    document.getElementById(anuncio).style.display = "block";
+  }, 4000) //cuatro segundos
+
 }
 </script>
 <!-- banner ads pc fix -->
