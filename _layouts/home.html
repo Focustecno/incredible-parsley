@@ -80,12 +80,12 @@ layout: main
                             {% include date.html date=post.date %}
                         </time>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                            <h2 class="post-title">
+                            <h2  style="overflow: hidden;display: -webkit-box;-webkit-line-clamp: 5;-webkit-box-orient: vertical;" class="post-title">
                                 {{ post.title }}
                             </h2>
                         </a>
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                            <p class="description">{{ post.description }}</p>
+                            <p  style="overflow: hidden;display: -webkit-box;-webkit-line-clamp: 3;-webkit-box-orient: vertical;" class="description">{{ post.description }}</p>
                         </a>
 
 			<!-- tags -->    
