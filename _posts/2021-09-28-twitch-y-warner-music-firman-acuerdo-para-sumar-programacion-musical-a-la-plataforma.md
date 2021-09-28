@@ -1,7 +1,7 @@
 ---
 date: 2021-09-28 12:07:00 +0300
 layout: post
-title: Twitch Y Warner Music Firman Acuerdo Para Sumar ProgramaciÓN Musical A La Plataforma
+title: Twitch Y Warner Music Firman Acuerdo Para Sumar Programación Musical A La Plataforma
 subtitle: En Twitch, así como en muchas otras plataformas, no sólo se prohíbe el uso de música sin la licencia correspondiente, sino que también se penaliza su utilización no autorizada.
 description: En Twitch, así como en muchas otras plataformas, no sólo se prohíbe el uso de música sin la licencia correspondiente, sino que también se penaliza su utilización no autorizada. Musica sin copy para twitch
 image: "https://res.cloudinary.com/focustecno/image/upload/c_scale,w_1133/v1632820230/twitch-y-warner-music-firman-acuerdo-para-sumar-programacion-musical-a-la-plataforma.jpg"
