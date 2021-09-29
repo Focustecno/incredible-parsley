@@ -33,7 +33,8 @@ Estas son **12 reglas extraídas de frases que él mismo citó** y luego fueron 
 
 
 <div id="toc_container">
-<p class="toc_title">Contents</p>
+<p class="toc_title">Índice</p>
+<ul>
 <li><a href="#1-trabaja-lo-menos-posible-para-alguien">1 Trabaja lo menos posible para alguien</a></li>
 <li><a href="#2-ahorra-el-dinero">2 Ahorra el dinero</a></li>
 <li><a href="#3-si-tienes-poco-dinero-tienes-que-hacer-un-negocio-y-si-no-tienes-nada-hay-que-hacer-un-negocio-ya-mismo">3 Si tienes poco dinero, tienes que hacer un negocio y si no tienes nada, hay que hacer un negocio ya mismo!</a></li>
