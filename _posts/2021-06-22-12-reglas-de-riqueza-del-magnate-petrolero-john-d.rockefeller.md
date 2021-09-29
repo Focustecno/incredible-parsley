@@ -31,7 +31,7 @@ Estas son **12 reglas extraídas de frases que él mismo citó** y luego fueron 
 
 ## Las 12 reglas de oro de John D. Rockefeller
 
-
+<br>
 <div id="toc_container">
 <p class="toc_title">Índice</p>
 <ul>
@@ -49,7 +49,7 @@ Estas son **12 reglas extraídas de frases que él mismo citó** y luego fueron 
 <li><a href="#12-crea-sistemas-de-negocios-que-trabajen-solos-y-disfruta-de-tus-ganancias">12 Crea sistemas de negocios que trabajen solos y disfruta de tus ganancias</a></li>
 </ul>
 </div>
-
+<br>
 
 
 ![trabajo inteligente definicion trabajo inteligente frases trabajo inteligente ejemplos trabajo duro o trabajo inteligente sistemas de trabajo inteligente el trabajo inteligente no es difícil trabajo inteligente definicion lo importante no es trabajar mas duro sino trabajar de manera mas inteligente quien lo dijo sistemas de trabajo inteligente trabajar de forma inteligente y no dura trabajo inteligente frases teletrabajo trabajo duro frases trabajo inteligente ejemplos](https://res.cloudinary.com/focustecno/image/upload/v1631978491/trabaja-lo-menos-posible-para-alguien.jpg)
