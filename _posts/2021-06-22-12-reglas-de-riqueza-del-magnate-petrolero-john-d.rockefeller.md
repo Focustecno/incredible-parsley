@@ -31,6 +31,26 @@ Estas son **12 reglas extraídas de frases que él mismo citó** y luego fueron 
 
 ## Las 12 reglas de oro de John D. Rockefeller
 
+
+<div id="toc_container">
+<p class="toc_title">Contents</p>
+<li><a href="#1-trabaja-lo-menos-posible-para-alguien">1 Trabaja lo menos posible para alguien</a></li>
+<li><a href="#2-ahorra-el-dinero">2 Ahorra el dinero</a></li>
+<li><a href="#3-si-tienes-poco-dinero-tienes-que-hacer-un-negocio-y-si-no-tienes-nada-hay-que-hacer-un-negocio-ya-mismo">3 Si tienes poco dinero, tienes que hacer un negocio y si no tienes nada, hay que hacer un negocio ya mismo!</a></li>
+<li><a href="#4-el-camino-hacia-una-gran-riqueza-es-sólo-a-través-de-los-ingresos-pasivos">4 El camino hacia una gran riqueza, es sólo a través de los ingresos pasivos</a></li>
+<li><a href="#5-piensa-en-como-hacer-como-mínimo-50000-dólares-al-mes">5 Piensa en como hacer como mínimo 50.000 dólares al mes</a></li>
+<li><a href="#6-el-dinero-te-llega-a-través-de-otras-personas">6 El dinero te llega a través de otras personas</a></li> 
+<li><a href="#7-un-entorno-pobre-te-lleva-a-la-pobreza-rodéate-de-personas-ganadoras-y-optimistas">7 Un entorno pobre te lleva a la pobreza, rodéate de personas ganadoras y optimistas</a></li>
+<li><a href="#8-la-pobreza-llega-cuando-le-das-la-espalda-a-las-responsabilidades-no-inventes-excusas">8 La pobreza llega cuando le das la espalda a las responsabilidades. No inventes excusas</a></li>
+<li><a href="#9-estudia-las-biografías-y-pensamientos-de-las-personas-mas-ricas">9 Estudia las biografías y pensamientos de las personas mas ricas</a></li>
+<li><a href="#10-los-sueños-son-lo-más-importante-en-tu-vida-una-persona-comienza-a-morir-cuando-deja-de-soñar">10 Los sueños son lo más importante en tu vida! Una persona comienza a morir cuando deja de soñar</a></li>
+<li><a href="#11-ayuda-a-las-personas-de-corazón-pero-solo-si-deseas-ayudar-a-esas-personas">11 Ayuda a las personas, de corazón. Pero solo si deseas ayudar a esas personas</a></li>
+<li><a href="#12-crea-sistemas-de-negocios-que-trabajen-solos-y-disfruta-de-tus-ganancias">12 Crea sistemas de negocios que trabajen solos y disfruta de tus ganancias</a></li>
+</ul>
+</div>
+
+
+
 ![trabajo inteligente definicion trabajo inteligente frases trabajo inteligente ejemplos trabajo duro o trabajo inteligente sistemas de trabajo inteligente el trabajo inteligente no es difícil trabajo inteligente definicion lo importante no es trabajar mas duro sino trabajar de manera mas inteligente quien lo dijo sistemas de trabajo inteligente trabajar de forma inteligente y no dura trabajo inteligente frases teletrabajo trabajo duro frases trabajo inteligente ejemplos](https://res.cloudinary.com/focustecno/image/upload/v1631978491/trabaja-lo-menos-posible-para-alguien.jpg)
 
 ### 1. Trabaja lo menos posible para alguien
