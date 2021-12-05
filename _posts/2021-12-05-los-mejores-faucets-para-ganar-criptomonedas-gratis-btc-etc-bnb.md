@@ -71,7 +71,7 @@ Retire sus ganancias directamente a su billetera. Pagamos directamente a través
 
 Comparta su enlace de referencia con sus amigos y gane 20% + artículos de todas sus ganancias de por vida. Realice un seguimiento de sus ganancias en nuestro panel de estadísticas de referencias avanzadas.
 
-### autofaucet.org [Autofaucet.org](https://bit.ly/3lAAy4Z)
+### [Autofaucet.org](https://bit.ly/3lAAy4Z)
 
 AutoFaucet le ofrece varias oportunidades de ingresos. Los servicios que ofrecemos son la forma más fácil de ingresar al mundo de las criptomonedas e invertir en su futuro siguiendo las últimas tendencias. Determine la forma más adecuada que le convenga para ganar sin depositar fondos. Además, cada acción que realiza en nuestro sitio web lo ayuda a obtener puntos de nivel para que pueda aumentar sus ganancias al subir de nivel. ¡Crea tu cuenta y empieza a ganar ahora!
 
