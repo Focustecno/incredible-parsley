@@ -214,15 +214,37 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
     
 
 <amp-analytics type="gtag" data-credentials="include">
-<script type="application/json">
+<script type="application/json">  
 {
-  "vars" : {
-    "gtag_id": "G-M802EQZ8GG",
-    "config" : {
-      "G-M802EQZ8GG": { "groups": "default" }
+   "vars": {
+    "account": "G-M802EQZ8GG"
+   },
+   "triggers": {
+    "trackPageview": {
+     "on": "visible", "request": "pageview"
+    },
+    "trackEvent": {
+     "selector": ".ampstart-headerbar",
+     "on": "click",
+     "request": "event",
+     "vars": {
+      "eventCategory": "Visitas",
+      "eventAction": "amp"
+     }
+    },
+    "scrollPings": {
+      "on": "scroll",
+      "scrollSpec": {
+       "verticalBoundaries": [80]
+      },
+      "request": "event",
+      "vars": {
+       "eventCategory": "Scroll",
+       "eventAction": "80%"
+      }
     }
-  }
-}
+   }
+ }     
 </script>
 </amp-analytics>
     
@@ -235,16 +257,6 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
   </div>
 </div>  
     
-<div class="ad-fix">
-<amp-ad
-     layout="fixed"
-     width="320"
-     height="50"
-     type="adsense"
-     data-ad-client="ca-pub-4858467408884489"
-     data-ad-slot="9024038502">
-</amp-ad></div>  
-      
 <!-- Google Tag Manager -->
 <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-KHWJS6X&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
 
