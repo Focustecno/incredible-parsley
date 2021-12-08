@@ -200,11 +200,11 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.optimized_image %}
-          <amp-img src="{{ post.optimized_image }}" width="200" height="150" alt="Featured image" layout="responsive" ></amp-img>
+          <amp-img src="{{ post.optimized_image }}" width="200" height="150" alt="{{ post.altp }}" layout="responsive" ></amp-img>
         {% elsif post.image %}
-          <amp-img src="{{ post.image }}" width="200" height="150" alt="Featured image" layout="responsive" ></amp-img>
+          <amp-img src="{{ post.image }}" width="200" height="150" alt="{{ post.altp }}" layout="responsive" ></amp-img>
         {% else %}
-          <amp-img src="/assets/img/off.jpg" width="200" height="150" alt="Featured image" layout="responsive" ></amp-img>
+          <amp-img src="/assets/img/off.jpg" width="200" height="150" alt="{{ post.altp }}" layout="responsive" ></amp-img>
         {% endif %}
         <h3>{{ post.title }}</h3>
       </a>
@@ -232,37 +232,19 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
     
 
 <amp-analytics type="gtag" data-credentials="include">
-<script type="application/json">  
+<script type="application/json"> 
 {
-   "vars": {
-    "account": "G-M802EQZ8GG"
-   },
-   "triggers": {
-    "trackPageview": {
-     "on": "visible", "request": "pageview"
-    },
-    "trackEvent": {
-     "selector": ".ampstart-headerbar",
-     "on": "click",
-     "request": "event",
-     "vars": {
-      "eventCategory": "Visitas",
-      "eventAction": "amp"
-     }
-    },
-    "scrollPings": {
-      "on": "scroll",
-      "scrollSpec": {
-       "verticalBoundaries": [80]
-      },
-      "request": "event",
-      "vars": {
-       "eventCategory": "Scroll",
-       "eventAction": "80%"
-      }
-    }
-   }
- }     
+"vars": {
+"account": "G-M802EQZ8GG"
+},
+"triggers": {
+"trackPageview": {
+"on": "visible",
+"request": "pageview"
+  }
+ }
+} 
+
 </script>
 </amp-analytics>
     
