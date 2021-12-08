@@ -233,36 +233,18 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
 
 <amp-analytics type="gtag" data-credentials="include">
 <script type="application/json"> 
-{
-   "vars": {
-    "account": "UA-198798123-1"
-   },
-   "triggers": {
-    "trackPageview": {
-     "on": "visible", "request": "pageview"
-    },
-    "trackEvent": {
-     "selector": ".ampstart-headerbar",
-     "on": "click",
-     "request": "event",
-     "vars": {
-      "eventCategory": "Visitas",
-      "eventAction": "amp"
-     }
-    },
-    "scrollPings": {
-      "on": "scroll",
-      "scrollSpec": {
-       "verticalBoundaries": [80]
-      },
-      "request": "event",
-      "vars": {
-       "eventCategory": "Scroll",
-       "eventAction": "10%"
-      }
-    }
-   }
- }
+ {
+                "vars": {
+                    "account": "UA-198798123-1"
+                },
+                "triggers": {
+                    "trackPageview": {
+                        "on": "visible",
+                        "request": "pageview"
+                    }
+                }
+}
+    
 </script>
 </amp-analytics>
     
