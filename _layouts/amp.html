@@ -151,6 +151,21 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
       <div overflow=""></div>
     </amp-ad>
     <br/>
+      
+      
+                    <h3>{{ site.translations.text.see_also | default: "También te puede interesar" }}</h3>
+                    <ul style="padding-left: 0;">
+
+                       {% for post in site.categories[page.category] limit: 4 %}
+                            <li style="list-style:none">
+                                <a href="{{ post.url | prepend: site.baseurl }}">
+                                    <h4 style="padding-top: 0;line-height: 1.2;">{{ post.title }}</h4>
+                                </a>
+                            </li>
+                        {% endfor %}
+                    </ul>
+
+      
   </article>
 
     
