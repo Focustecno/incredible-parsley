@@ -17,6 +17,19 @@ La creciente popularidad que han ganado las criptomonedas, ha captado la atenci�
 
 Los Faucet Crypto, son sitios web que nos permite ganar fracciones de determinadas criptomonedas, realizando diversas tareas. Estas tareas varían según el sitio, en algunos sitios tendrá que “clickear” algunos anuncios, en otros jugar juegos, o simplemente reclamar una cantidad aleatoria cada ciertos minutos. 
 
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
+
 ## ¿Cómo ganar Bitcoin gratis?
 
 La manera más fácil de ganar Bitcoin gratis, es a través de los grifos y si bien no te harás millonario, podrás obtener ingresos para comenzar a invertir tus criptomonedas. Uno de los Faucet Crypto más antiguos y conocidos es freebitco.in. Este sitio es una auténtica maravilla ya que en esencia te regala una fracción de bitcoin cada una hora y de manera aleatoria puedes ganar hasta 200 dólares. También puedes realizar apuestas, multiplicar tus Bitcoins, hacer stake y mucho más. 
@@ -38,6 +51,19 @@ Gana grandes premios con nuestra lotería semanal por la que obtienes boletos gr
 Apuesta en el juego de dados HI-LO o apuesta en tus eventos favoritos en FreeBitco.in. ¡Clasifíquese entre los 10 mejores usuarios por volumen de apuestas para ganar el concurso y hasta $ 21,600 en BTC cada mes!
 
 Deposite BTC en su billetera FreeBitco.in y le daremos un interés anual del 4.08% sobre su saldo, compuesto diariamente.
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="2382378960"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
 
 
 ### [Firefaucet.win](https://firefaucet.win/ref/264408)
@@ -70,6 +96,19 @@ Esta tarea es la más simple, solo necesita hacer clic en un botón para obtener
 Retire sus ganancias directamente a su billetera. Pagamos directamente a través de blockchain. El propietario de su dinero debe ser usted y no un servicio de microwallet de terceros.
 
 Comparta su enlace de referencia con sus amigos y gane 20% + artículos de todas sus ganancias de por vida. Realice un seguimiento de sus ganancias en nuestro panel de estadísticas de referencias avanzadas.
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="5537341138"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
 
 ### [Autofaucet.org](https://bit.ly/3lAAy4Z)
 
