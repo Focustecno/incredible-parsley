@@ -23,6 +23,19 @@ Es aquí donde accedemos a un mundo diferente, los latinos, estamos acostumbrado
 
 Por eso hoy te traemos las mejores páginas para encontrar trabajo en Argentina. La mayoría de estas páginas, tienen miles de anuncios y profesiones para que puedas aplicar ahora mismo. Es hora de ganar dinero!
 
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
+
 ## [Computrabajo](https://www.computrabajo.com.ar/)
 
 CompuTrabajo es la web de empleo líder en Latinoamérica con presencia en 19 países de los cuales es líder en 10.
@@ -43,6 +56,19 @@ Indeed es la página web número uno para la búsqueda de empleo con más de 250
 
 Presente en el país desde hace más de 30 años, Adecco Argentina es líder en contratación de personal ofreciendo soluciones integrales en el área de Recursos Humanos. Cuenta con más de 30 sucursales ubicadas en las principales ciudades del país y posee diversas unidades de negocios especializadas en distintos sectores del mercado laboral.
 Sus líneas de negocios nos permiten cubrir las necesidades a medida de compañías pertenecientes a distintos sectores de mercado para lograr una visión global y brindar un servicio con los más altos estándares del mundo profesional.
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="2382378960"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
 
 Con más de 33.000 empleados internos y alrededor de 5.100 sucursales en 60 países y territorios alrededor del Mundo, el Grupo Adecco ofrece una gran variedad de servicios, conectando aproximadamente a 700.000 asociados con nuestros clientes todos los días.
 
@@ -68,6 +94,19 @@ Jooble un portal sencillo de usar y que arroja resultados con rapidez.
 ## [Linkedin](https://es.linkedin.com)
 
 Linkedin es la red social de Curriculum vitae, aquí no solo podrás crear un perfil con tus cualidades si no que te podrás conectar con otros trabajadores, profesionales y empresas, esta plataforma cada vez toma más notoriedad en el mundo profesional y es una muy buena opción si estás buscando trabajo.
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="5537341138"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
 
 ## [Workana](https://www.workana.com/)
 
