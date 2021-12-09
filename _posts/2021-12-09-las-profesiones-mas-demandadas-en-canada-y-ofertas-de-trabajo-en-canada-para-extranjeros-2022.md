@@ -30,7 +30,7 @@ El estudio de la fisioterapia abarca una amplia gama de habilidades necesarias p
 
 Otro perfil muy demandado en Canadá es la enfermería. El área de la salud en general es uno de los más demandados y en Canadá hay demanda de enfermeros, en cada ciudad hay una gran demanda y en zonas rurales o de difícil acceso estos enfermos suelen asumir roles de atención primaria. El salario promedio de un enfermero en Canadá es de $76.000 al año.
 
-###Transporte
+### Transporte
 
 Uno de los oficios más demandados en Canadá es conductor de camiones y su salario varía entre los $60.000 y $75.000 al año. También en el último tiempo ha crecido la demanda en otras áreas de transporte como son los conductores de Uber donde el salario promedio ronda los $40.000 anuales. Si tienes el sueño de ir a vivir a Canadá y no tienes ninguna profesión, tal vez esta sea una de las mejores opciones. Eso sí, necesitarás un coche y una licencia.
 
