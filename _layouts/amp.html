@@ -173,9 +173,9 @@ html,h1,p{font-family: 'Titillium Web', sans-serif;line-height:1.15;-ms-text-siz
       
     <div class="sidebar">     
        <!-- post relacionados -->       
-   <h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
+   
                     <ul>
-
+<h2>{{ site.translations.text.see_also | default: "Ver también" }}</h2>
                        {% for post in site.categories[page.category] limit: 5 %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
