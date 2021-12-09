@@ -22,6 +22,19 @@ Existen sitios dedicados para encontrar trabajos en Europa para extranjeros y pu
 
 Por esto mismo hemos seleccionado los mejores lugar para empezar tu búsqueda de oportunidades laborales y ofertas de trabajo en Europa con alojamiento.
 
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
+
 ## Las mejores páginas para encontrar trabajo en Europa
 
 ## [EuroJobs](https://www.eurojobs.com/)
@@ -37,6 +50,19 @@ El 80% de nuestros usuarios tiene títulos universitarios de posgrado o pregrado
 
 Just Landed es una comunidad en línea que permite a los expatriados comunicarse entre sí. La comunidad ofrece trabajos internacionales, propiedades, alquileres, anuncios clasificados y directorios en línea. Además, ofrece guías turísticas y de viaje para sus usuarios. Los expatriados pueden comunicarse entre sí con respecto a viajes, trabajos y propiedades. Just Landed fue lanzado en 2003 por Simon Lynch y tiene su sede en Madrid.
 
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="2382378960"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
+
 ## [Summerjobs](https://www.summerjobs.com/)
 
 Desde 1996, SummerJobs.com ha sido un recurso principal para encontrar trabajos de verano y puestos de personal de temporada en campamentos, parques de diversiones, centros turísticos, parques nacionales, hoteles, organizaciones ambientales y más. 
@@ -49,10 +75,22 @@ IrishJobs.ie, el sitio web de contratación número uno de Irlanda, ha reunido a
 
 ¿Está buscando un trabajo temporal a corto plazo en el extranjero o en el Reino Unido? Anyworkanywhere.com tiene una gran selección de vacantes de temporada interesantes de algunas de las empresas más grandes de Europa. Ya sea que esté buscando un trabajo en un chalet o una vacante de instructor de esquí para el invierno, o un trabajo en un campamento para el verano, podrá encontrar el trabajo de temporada perfecto en anyworkanywhere.com.
 
-
 ## [CapCampus](https://www.capcampus.com/)
 
 Portal web francés que ofrece Programas de prácticas, intercambios, empleo tanto en Europa y como en países de otros continentes.
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="5537341138"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
 
 ## [Gap Work](https://www.gapwork.com/)
 
