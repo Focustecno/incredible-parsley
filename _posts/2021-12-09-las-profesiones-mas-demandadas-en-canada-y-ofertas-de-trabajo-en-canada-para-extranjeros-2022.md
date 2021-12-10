@@ -46,6 +46,20 @@ El área de negocios claramente es una de las más rentables y demandadas en Can
 
 Los analyst o analistas de datos son muy demandados en Canadá. Se cree que para los próximos años habrá muchas vacantes para esta posición en diversas áreas. Los analistas de datos se encargan de recopilar y procesar información, producir reportes, realizar análisis estadísticos de datos. Las herramientas principalmente utilizadas por analistas de datos profesionales son Apache Spark, Hive, Hadoop, Scala, Big Data, entre otras. El salario promedio de un analista de datos en Canadá es de $65.000 al año.
 
+{% if page.layout == 'post' %}
+<br/>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br/>
+{% endif %}
+
 {% if page.layout == 'amp' %}
 <br/>
 <amp-ad width="100vw" height="320"
@@ -75,6 +89,20 @@ Debido a la situación actual que atraviesa el mundo, este puesto se ha vuelto u
 
 Actualmente una de las vacantes más solicitadas en Canadá es Asistente Administrativo. Las tareas más frecuentes que realizan estos profesionales son: ingreso de datos, resolución de problemas, apoyo relacionado a contabilidad y análisis, coordinación de actividades diarias, atender y direccionar llamadas, entre otras. Es necesario tener estudios en el área para aplicar en este puesto. El salario promedio de un Asistente Administrativo es de $52.000 al año.
 
+{% if page.layout == 'post' %}
+<br/>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="2382378960"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br/>
+{% endif %}
+
 {% if page.layout == 'amp' %}
 <br/>
 <amp-ad width="100vw" height="320"
@@ -99,6 +127,20 @@ Los web developers o desarrolladores web son especialistas muy demandados en Can
 ### Ingenieros Robóticos
 
 Una de las carreras más prometedoras en Canadá es la ingeniería robótica, estos ingenieros están encargados de diseñar diversos prototipos para diferentes áreas. Luego se encargan de las pruebas de estas máquinas, mantenimiento de softwares y todo el trabajo de investigación que conlleva realizar este tipo de invenciones. El salario de un ingeniero robótico recién egresado, ronda los $50.000 anuales. Desde el año 2015 hasta la actualidad, la demanda en esta ingeniería ha crecido en 40% en Canadá. La mayoría de estos puestos, están disponibles en ciudades como Toronto, Montreal y Kitchener. Las industrias que más contratan ingenieros robóticos son: Industria bancaria, automatización industrial, software informático, automotriz, tecnología y servicios.
+
+{% if page.layout == 'post' %}
+<br/>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="5537341138"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br/>
+{% endif %}
 
 {% if page.layout == 'amp' %}
 <br/>
