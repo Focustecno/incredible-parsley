@@ -184,11 +184,17 @@ El costo de la matrícula es elevado por eso el acceso a becas puede equilibrar 
 
 Cada año se otorgan más de 400 mil permisos para estudiantes internacionales. Los requisitos pueden variar dependiendo el programa de estudio y la Universidad. Estos son los requisitos migratorios básicos. 
 
-### eTA canadiense: electronic Travel Authorization, esta autorización de viaje es solicitada para obtener el permiso de estudio
+### eTA canadiense:
 
-### Pasaporte: Este es el requisito básico para viajar a cualquier país extranjero.
+electronic Travel Authorization, esta autorización de viaje es solicitada para obtener el permiso de estudio
 
-### Visado: Se tramita luego de obtener la carta de aceptación de la Universidad.
+### Pasaporte:
+
+Este es el requisito básico para viajar a cualquier país extranjero.
+
+### Visado:
+
+Se tramita luego de obtener la carta de aceptación de la Universidad.
 
 ## Contenido relacionado
 
