@@ -162,3 +162,5 @@ El salario promedio de un Gerente en Canadá es de $55,974 por año. Puede varia
 ## ¿Qué es working holiday y qué ventajas ofrece?
 
 Working Holiday Visa es un permiso para trabajar y viajar en un país durante 12 meses, de esta manera podrás entrar y salir del país cuantas veces quieras durante un año. El rango de edad va desde los 18 a 35 años dependiendo el país y es una opción muy interesante viajar a Canadá. 
+
+### [Las Mejores UNIVERSIDADES para estudiar en Canadá en 2022](https://focustecno.com/viajeros/las-mejores-universidades-para-estudiar-en-canada-en-2022/)
