@@ -13,7 +13,7 @@ tags:
 - hosting y dominio gratis
 author: FocusTecno
 ---
-¿Cómo elegir un buen hosting?Lo más importante a la hora de elegir un buen Hosting para nuestro proyecto, es que tenga soporte para los lenguajes o el CMS que vamos a utilizar, Hosting Wordpress, joomla, magento, prestashop, etc.
+¿Cómo elegir un buen hosting? Lo más importante a la hora de elegir un buen Hosting para nuestro proyecto, es que tenga soporte para los lenguajes o el CMS que vamos a utilizar, Hosting Wordpress, joomla, magento, prestashop, etc.
 
 El siguiente punto es el almacenamiento, tienes que elegir un servicio que tenga la cantidad suficiente para alojar tus archivos y poder expandirse con facilidad en un futuro. 
 
