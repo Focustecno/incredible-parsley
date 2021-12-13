@@ -13,9 +13,9 @@ tags:
 - aeropuerto
 author: FocusTecno
 ---
-En el futuro, ya no hará falta ni siquiera el teléfono móvil para mostrar nuestra tarjeta de embarque en los aeropuertos todo se hará a través de reconocimiento facial.
+En el futuro, ya no hará falta ni siquiera el teléfono móvil para mostrar nuestra **tarjeta de embarque en los aeropuertos** todo se hará a través de **reconocimiento facial.**
 
-En el metro de Moscú, ya se implementa esta tecnología, pero sin ir más lejos, cada vez que nos registramos en alguna aplicación bancaria o nos solicitan una verificación biométrica estamos utilizando reconocimiento facial.
+**En el metro de Moscú, ya se implementa esta tecnología,** pero sin ir más lejos, cada vez que nos registramos en alguna aplicación bancaria o nos solicitan una **verificación biométrica** estamos utilizando **reconocimiento facial.**
 
 {% if page.layout == 'post' %}
 <br/>
