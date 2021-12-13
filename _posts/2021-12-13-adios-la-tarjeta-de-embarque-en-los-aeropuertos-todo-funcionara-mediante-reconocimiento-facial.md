@@ -48,9 +48,9 @@ En el metro de Moscú, ya se implementa esta tecnología, pero sin ir más lejos
 
 Los aeropuertos, están en constante búsqueda de seguridad y la actual situación sanitaria que atraviesa el mundo, han logrado que ya se están poniendo a prueba diferentes sistemas para evitar el contacto físico, solamente enseñando la cara.
 
-Una nota realizada por [El Economista](https://www.eleconomista.es/actualidad/noticias/11513648/12/21/Volar-por-la-cara-la-biometria-revoluciona-los-procesos-en-los-aeropuertos.html), señala que Delta Air Lines y otras compañías ya realizan diferentes procesos como: el control de seguridad, embarque y despacho de equipaje, mediante la verificación de datos biométricos. 
+Una nota realizada por [El Economista](https://www.eleconomista.es/actualidad/noticias/11513648/12/21/Volar-por-la-cara-la-biometria-revoluciona-los-procesos-en-los-aeropuertos.html), señala que Delta Air Lines y otras compañías ya realizan diferentes procesos como: el control de seguridad, embarque y despacho de equipaje, mediante la **verificación de datos biométricos.**
 
-Estas pruebas, se están llevando a cabo en vuelos nacionales, pero no hay que descartar que en un futuro se lleve a cabo todo el proceso mediante estas tecnologías. Posiblemente, tanto el control del pasaporte como la lectura del código QR de tu green pass, se hagan solamente mostrando la cara.
+Estas pruebas, se están llevando a cabo en **vuelos nacionales**, pero no hay que descartar que en un futuro se lleve a cabo todo el proceso mediante estas tecnologías. Posiblemente, tanto el control del pasaporte como la lectura del código QR de tu green pass, se hagan solamente mostrando la cara.
 
 Estas tecnologías agilizan el proceso casi en un 50%, y el tiempo en las colas se reduce a la mitad. En United Airlines, llegan a embarcar 400 personas en 20 minutos con este proceso.
 
@@ -81,8 +81,8 @@ Estas tecnologías agilizan el proceso casi en un 50%, y el tiempo en las colas 
 <br/>
 {% endif %}
 
-Pero a raíz de esto se observan muchas dudas en los usuarios y la principal se encuentra en la creciente pérdida de privacidad. Otra pregunta que surge es ¿Qué tan seguro es el reconocimiento facial? En algunas embajadas para hacer el pasaporte, se solicita al usuario que su pelo no tape su rostro y que no contenga maquillaje, mucho menos accesorios extra como gafas ¿Cómo reaccionan estos sistemas a la hora de reconocer una cara con maquillaje?
+Pero a raíz de esto se observan muchas dudas en los usuarios y la principal se encuentra en **la creciente pérdida de privacidad.** Otra pregunta que surge es **¿Qué tan seguro es el reconocimiento facial?** En algunas embajadas para hacer el pasaporte, se solicita al usuario que su cabello no tape su rostro y que no contenga maquillaje, mucho menos accesorios extra como gafas **¿Cómo reaccionan estos sistemas a la hora de reconocer una cara con maquillaje?**
 
-Las empresas aseguran que el escáner facial es fiable y que podrá reconocer cualquier rostro sin mayores inconvenientes con una precisión de al menos el 99,5%. 
+Las empresas aseguran que el **escáner facial es fiable** y que podrá reconocer cualquier rostro sin mayores inconvenientes con una precisión de al menos el 99,5%. 
 
-Es evidente que el reconocimiento facial está avanzando a un ritmo acelerado, cada año se utiliza más, ahorrando tiempo y molestos procesos. Tendremos que ver como avanza esta tecnología y que tan segura es para los usuarios.
+Es evidente que el **reconocimiento facial está avanzando a un ritmo acelerado**, cada año se utiliza más, ahorrando tiempo y molestos procesos. Tendremos que ver como avanza esta tecnología y que tan segura es para los usuarios.
