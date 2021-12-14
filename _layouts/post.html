@@ -226,11 +226,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             
 	    
 	<!-- post relacionados -->
-	    <div style="background:#fff;"><h2 style="padding: .625rem;">{{ site.translations.text.see_also | default: "Seguir leyendo" }}</h2></div>
+	    <div style="background:#fff;z-index: 999;position: relative;"><h2 style="padding: .625rem;margin: 0;">{{ site.translations.text.see_also | default: "Seguir leyendo" }}</h2></div>
 	     <div class="img-relb dragscroll" style="background:#fff;position:relative;z-index:999;overflow-y: hidden;
     overflow-x: scroll;
     white-space: nowrap;
-    display: inline-block;max-width: 100%;margin-bottom:30px">
+    display: inline-block;max-width: 100%;padding-bottom:30px">
                     <ul class="" style="display: flex;adding-left: 0;">
 			    <style>.img-relb::-webkit-scrollbar {display: none;}.img-relb img{max-width: 200px;object-fit: cover;height: 200px;border-radius: 15px 15px 0 0;}.img-relb li{width: 200px;margin: 10px;list-style:none;border: 1px solid #ccc5;border-radius: 15px;}.img-relb h3{max-width: 200px;margin: 10px;}</style>  
                         {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
