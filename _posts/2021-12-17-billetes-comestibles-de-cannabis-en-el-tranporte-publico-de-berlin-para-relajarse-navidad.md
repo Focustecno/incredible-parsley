@@ -17,7 +17,7 @@ author: FocusTecno
 
 A lo largo de la historia hemos visto innumerables campañas publicitarias de lo más ingeniosas y alocadas que podamos imaginarnos, pero el **Transporte Público de Berlín** ha roto el esquema.
 
-Parece una broma, pero así es. Nada como comerse un** billete de Transporte Público impregnado en cannabis,** después de un tenso día en vísperas de la Navidad. 
+Parece una broma, pero así es. Nada como comerse un **billete de Transporte Público impregnado en cannabis,** después de un tenso día en vísperas de la Navidad. 
 
 {% if page.layout == 'post' %}
 <br/>
