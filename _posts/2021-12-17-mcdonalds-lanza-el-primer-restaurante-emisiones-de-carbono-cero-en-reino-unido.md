@@ -21,11 +21,65 @@ Además llevará el reciclaje como uno de sus estándares de diseño en todos su
 
 El autoservicio de McDonald's  será creado con neumáticos reciclados, aprovechando sus propiedades para reducir las emisiones de carbono.
 
+{% if page.layout == 'post' %}
+<br/>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br/>
+{% endif %}
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
+
 Los letreros de las paredes, se construirán con granos de café y botellas de plástico recicladas. 
 
 El restaurante, también contará con un jardín de biodiversidad con un sendero natural, diseñado para absorber el agua de lluvia y construir un hábitat natural.
 
 La vicepresidenta de McDonald's, comunicó que la marca debe servir su comida en restaurantes que sean sostenibles para el futuro.
+
+{% if page.layout == 'post' %}
+<br/>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="2382378960"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br/>
+{% endif %}
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="2382378960"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
 
 En Market Drayton, Inglaterra, se llevó a cabo un gran paso para hacer esto posible, permitirá poner en práctica todo el plan y testear realmente cómo será su rendimiento para los demás restaurantes.
 
