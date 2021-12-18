@@ -13,6 +13,12 @@ tags:
 - hosting y dominio gratis
 author: FocusTecno
 ---
+{% if page.layout == 'post' %}
+<audio controls>
+  <source src="https://res.cloudinary.com/focustecno/video/upload/v1639825317/audio/2_los_mejores_hosting_web_2022mp3_trutsk.mp3" type="audio/mpeg">
+</audio>
+{% endif %}
+
 ¿Cómo elegir un buen hosting? Lo más importante a la hora de elegir un buen Hosting para nuestro proyecto, es que tenga soporte para los lenguajes o el CMS que vamos a utilizar, Hosting Wordpress, joomla, magento, prestashop, etc.
 
 El siguiente punto es el almacenamiento, tienes que elegir un servicio que tenga la cantidad suficiente para alojar tus archivos y poder expandirse con facilidad en un futuro. 
