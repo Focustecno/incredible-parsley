@@ -15,6 +15,11 @@ tags:
 author: FocusTecno
 ---
 
+{% if page.layout == 'post' %}
+<audio controls>
+  <source src="https://res.cloudinary.com/focustecno/video/upload/v1639821644/audio/Billetes_Comestibles_de_CANNAB_xw87ma.mp3" type="audio/mpeg">
+</audio>
+{% endif %}
 A lo largo de la historia hemos visto innumerables campañas publicitarias de lo más ingeniosas y alocadas que podamos imaginarnos, pero el **Transporte Público de Berlín** ha roto el esquema.
 
 Parece una broma, pero así es. Nada como comerse un **billete de Transporte Público impregnado en cannabis,** después de un tenso día en vísperas de la Navidad. 
