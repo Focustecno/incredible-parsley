@@ -8,6 +8,7 @@ description: La empresa de pagos PayPal ha abierto la oportunidad para que los c
   del Reino Unido compren, almacenen y vendan criptomonedas.
 image: "/uploads/paypal_acepta-criptomonedas-focustecno-com.jpg"
 optimized_image: "/uploads/paypal_acepta-criptomonedas-focustecno-comw.jpg"
+altp:  paypal criptomonedas, paypal criptomonedas argentina, paypal criptomonedas españa, paypal criptomonedas latinoamérica, paypal criptomonedas colombia, paypal criptomonedas méxico, paypal acepta criptomonedas, paypal comprar criptomonedas, paypal recibe criptomonedas, paypal a criptomoneda, paypal con criptomonedas, recargar paypal con criptomonedas, paypal permite pagar con criptomonedas, criptomonedas en paypal, paypal y las criptomonedas, paypal y criptomonedas, paypal para criptomonedas, and paypal pago criptomonedas 
 category:
 - Crypto
 tags:
@@ -20,9 +21,9 @@ author: FocusTecno
 Esta es la primera extensión del servicio de activos digitales de la compañía fuera estadounidense, donde opera a partir de octubre de 2020 .
 
 Los usuarios de PayPal del Reino Unificado tienen la posibilidad de hacer transacciones con Bitcoin, Ethereum, Litecoin y Bitcoin Cash por medio de sus cuentas. Además van a tener ingreso a contenido educativo.
-
+{% if page.layout == 'post' %}
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, we are announcing the launch of a new service that will enable eligible customers in the UK to buy, hold and sell <a href="https://twitter.com/hashtag/Cryptocurrency?src=hash&ref_src=twsrc%5Etfw">#Cryptocurrency</a> directly from their PayPal account. Terms apply. <a href="https://t.co/RG5xoqlHmr">pic.twitter.com/RG5xoqlHmr</a></p>— PayPal UK (@PayPalUK) <a href="https://twitter.com/PayPalUK/status/1429685369960898560?ref_src=twsrc%5Etfw">August 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+{% endif %}
 > “Nuestro alcance global, experiencia en pagos digitales y conocimiento de consumidores y negocios, combinados con fuertes controles de seguridad y cumplimiento, nos brindan una oportunidad y responsabilidad únicas para ayudar a las personas en el Reino Unido a explorar las criptomonedas”, dijo el vicepresidente de PayPal, José Fernández da Ponte.
 
 La compañía dio ingreso a activos digitales en sociedad con Paxos.
