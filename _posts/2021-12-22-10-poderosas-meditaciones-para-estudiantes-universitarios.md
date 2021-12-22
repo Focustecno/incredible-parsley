@@ -211,12 +211,6 @@ Ya sea que esté sentado en una silla o en una almohada, su espalda recta y su o
 Siéntese cómodamente para comenzar a meditar. Los meditadores generalmente se sientan en una silla o con las piernas cruzadas en el piso, aunque también es posible meditar mientras están acostados, de pie o caminando.
 Cuando practique la meditación sentado, asegúrese de sentarse en una posición relajada pero erguida con la cabeza apoyada en la columna vertebral.
 
-{% if page.layout == 'post' %}
-<br/>
-<iframe data-aa="1868095" src="//ad.a-ads.com/1868095?size=300x250" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>
-<br/>
-{% endif %}
-
 ### Determina cuánto tiempo quieres meditar cada día.
 Un cuarto de hora es ideal, pero puede comenzar a intervalos de solo 5 a 10 minutos. Antes de empezar, comprométete a practicar. Mientras medita, establezca su intención de estar físicamente tranquilo teniendo cuidado de no notar ningún tipo de tensión que surja en su cuerpo.
 
