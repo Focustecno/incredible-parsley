@@ -27,6 +27,33 @@ La universidad es el momento ideal para que los estudiantes mantengan la paz y e
 
 Sin embargo, debido a su énfasis en la meditación, el discernimiento personal y la autoexpresión, el zen se usa a menudo de manera colectiva para describir un sentido general de equilibrio físico y mental.
 
+{% if page.layout == 'post' %}
+<br/>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br/>
+{% endif %}
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
+
 ## ¿La atención plena y la meditación son lo mismo?
 Aunque la atención plena y la meditación están estrechamente relacionadas, no son lo mismo. Esta sección contiene información sobre la atención plena y la meditación, y los beneficios de practicar ambas.
 
@@ -59,6 +86,33 @@ Las personas que practican la atención plena y la meditación tienden a concent
 Un alto rendimiento académico requiere una memoria aguda y la práctica de la atención plena puede mejorar en gran medida la capacidad de los estudiantes para memorizar el material del curso.
 
 La investigación en las ciencias psicológicas encontró que los estudiantes que realizaban ejercicios de atención plena tenían memoria a corto plazo. También eran menos propensos a distraerse y tenían mejoras en el pensamiento oral.
+
+{% if page.layout == 'post' %}
+<br/>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="5537341138"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br/>
+{% endif %}
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="5537341138"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
 
 ### Creatividad
 Las mentes seguras también disfrutan encontrando soluciones inventivas a problemas y acertijos. Los buenos maestros tienden a apreciar a los estudiantes que están dispuestos a pensar fuera de la caja.
@@ -111,6 +165,33 @@ Los estudiantes también pueden incorporar este ejercicio de atención plena en 
 Si no creyera que la meditación puede conducir a un mayor bienestar, no le importaría. Mantenga un registro de estas expectativas.
 Las expectativas de lo que sucederá cuando empiece a sentarse pueden ser un gran obstáculo. Algunas personas piensan que experimentarán estados mentales trascendentales, otras esperan una paz mental inmediata y, sin embargo, otras creen que cuando se abra su tercer ojo, desarrollarán poderes sobrenaturales.
 
+{% if page.layout == 'post' %}
+<br/>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="2382378960"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br/>
+{% endif %}
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="2382378960"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
+
 ## Cómo comenzar una práctica de meditación en la universidad
 La universidad desafía la meditación: dormitorios abarrotados, horarios abarrotados. Incluso los pensamientos están llenos de pensamientos, planes, recuerdos y factores estresantes. Los budistas llaman a esto la "mente de mono". Imagínese un mono balanceándose de rama en rama y sin querer descansar. Este mono es nuestro cerebro.
 Para que el mono se calme, necesitas un lugar especial. No debe estar completamente tranquilo, sino en paz. Si sus compañeros de cuarto o miembros de la familia no están descansando, pruebe con auriculares con cancelación de ruido.
@@ -129,6 +210,12 @@ Ya sea que esté sentado en una silla o en una almohada, su espalda recta y su o
 ### Siéntate cómodamente
 Siéntese cómodamente para comenzar a meditar. Los meditadores generalmente se sientan en una silla o con las piernas cruzadas en el piso, aunque también es posible meditar mientras están acostados, de pie o caminando.
 Cuando practique la meditación sentado, asegúrese de sentarse en una posición relajada pero erguida con la cabeza apoyada en la columna vertebral.
+
+{% if page.layout == 'post' %}
+<br/>
+<iframe data-aa="1868095" src="//ad.a-ads.com/1868095?size=300x250" style="width:300px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;" ></iframe>
+<br/>
+{% endif %}
 
 ### Determina cuánto tiempo quieres meditar cada día.
 Un cuarto de hora es ideal, pero puede comenzar a intervalos de solo 5 a 10 minutos. Antes de empezar, comprométete a practicar. Mientras medita, establezca su intención de estar físicamente tranquilo teniendo cuidado de no notar ningún tipo de tensión que surja en su cuerpo.
