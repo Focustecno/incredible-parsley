@@ -28,6 +28,33 @@ Así lo indica un mensaje enviado por el equipo de Anonymous a los militares rus
 
 En particular, la propuesta de Anonymous se produjo poco después de que afirmara haber pirateado la seguridad digital de más de 300 sitios rusos en sólo dos días, entre ellos organizaciones gubernamentales, importantes bancos de Rusia y Bielorrusia y sitios web de medios de comunicación. Un portavoz de la organización ha declarado lo siguiente: "En 2022, la tecnología moderna será una de las mejores respuestas contra los tanques, misiles y cohetes".
 
+{% if page.layout == 'post' %}
+<br/>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<br/>
+{% endif %}
+
+{% if page.layout == 'amp' %}
+<br/>
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-4858467408884489"
+     data-ad-slot="4415831152"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+<br/>
+{% endif %}
+
 ## El papel de las criptomonedas en tiempos de conflicto
 
 Diversos movimientos han popularizado el uso de criptomonedas a raíz de las tensiones en Ucrania tras la invasión del territorio ucraniano por parte de las tropas rusas, principalmente para apoyar a los ucranianos en estos momentos.
