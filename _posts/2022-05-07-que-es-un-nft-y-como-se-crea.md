@@ -1,5 +1,5 @@
 ---
-date: 2022-05-07 19:39:00 +0200
+date: 2022-05-07 18:39:00 +0200
 layout: post
 title: ¿Qué es un NFT y cómo se crea?
 subtitle: Descubre el apasionante mundo de los non-fungible token y comienza a generar ingresos con ellos. 
